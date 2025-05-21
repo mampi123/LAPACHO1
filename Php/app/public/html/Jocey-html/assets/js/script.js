@@ -24,9 +24,12 @@ function isTokenValid (token) {
 
 /* ---------- obtener token (cache + renovación) ---------- */
 
+// Al inicio de script.js
+const BASE_URL = `${window.location.origin}/repositories/php/app/public`;
+
 async function fetchNewToken () {
   console.log('🔄 Pidiendo token nuevo…');
-  const res = await fetch('http://lapacho-1.local/wp-content/get-jwt-token.php');
+const res = await fetch(`${BASE_URL}/wp-content/get-jwt-token.php`);
   if (!res.ok) throw new Error('No se pudo obtener token');
   return (await res.text()).trim();
 }
@@ -61,7 +64,7 @@ async function getProducts ({ forceReload = false } = {}) {
   const token = await getToken();
   console.log('🐻‍❄ Token usado:', token);
 
-  const res = await fetch('http://lapacho-1.local/wp-json/wc/v3/products', {
+    const res = await fetch(`${BASE_URL}/wp-json/wc/v3/products`, {
     headers: { Authorization: `Bearer ${token}` }
   });
 
@@ -85,7 +88,7 @@ async function getProducts() {
   }
 
   try {
-    const response = await fetch("http://lapacho-1.local/wp-json/wc/v3/products", {
+  const response = await fetch(`${BASE_URL}/wp-json/wc/v3/products`, {
       method: "GET",
       mode: "cors",
       headers: {
@@ -172,8 +175,7 @@ async function getProducts() {
 
 async function obtenerNonceDesdeServidor() {
     try {
-        const response = await fetch("http://lapacho-1.local/wp-admin/admin-ajax.php?action=obtener_nonce", {
-            method: "GET",
+        const response = await fetch(`${BASE_URL}/wp-admin/admin-ajax.php?action=obtener_nonce`, {            method: "GET",
             mode: "cors",
             headers: {
               "Authorization": `Bearer ${token}`,
@@ -198,7 +200,7 @@ async function obtenerNonceDesdeServidor() {
 async function addToCart(productId, quantity = 1) {
     showProcessing();
     try {
-      const response = await fetch("http://lapacho-1.local/?wc-ajax=add_to_cart", {
+      const response = await fetch(`${BASE_URL}/?wc-ajax=add_to_cart`, {
         method: "POST",
         mode: "cors",
         credentials: "include",
@@ -239,7 +241,7 @@ async function addToCart(productId, quantity = 1) {
       if (!token) throw new Error("sin token");
   
       // 2 ) petición al Store API
-      const res = await fetch("http://lapacho-1.local/wp-json/wc/store/cart", {
+      const res = await fetch(`${BASE_URL}/wp-json/wc/store/cart`, {
         headers: {
           Authorization: `Bearer ${token}`,
           "Content-Type": "application/json"
