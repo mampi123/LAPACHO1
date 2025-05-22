@@ -6,66 +6,64 @@
 (function(){
   if (window.__LAPACHO_CART_LOADED__) {
     console.warn("cart-script.js ya estaba cargado, se ignora duplicado");
-    return;   // ahora es válido, está dentro de función IIFE
+    return;
   }
   window.__LAPACHO_CART_LOADED__ = true;
 
-  // TODO tu código aquí, sin cambios
-  const BASE_URL = "https://www.talabarterialapacho.com";
+  const BASE_URL = "https://admin.talabarterialapacho.com";
 
-  // resto del script ...
+  // resto del script usa BASE_URL para fetch y endpoints
+
 })();
 
-
 /* ---------- configuración ---------- */
-const BASE_URL = "https://www.talabarterialapacho.com";   // ← tu dominio WordPress/Woo
+const BASE_URL = "https://admin.talabarterialapacho.com";
 
 /* =====================================================================
    1.  JWT helpers (los que ya usás en otras páginas)
    ===================================================================== */
-   let productsAlreadyLoaded = false;
-   // decodifica la parte intermedia del JWT (payload) sin bibliotecas externas
-   function decodeJwtPayload (token) {
-     const payloadBase64 = token.split('.')[1];
-     // Base64url → Base64 estándar
-     const base64 = payloadBase64.replace(/-/g, '+').replace(/_/g, '/');
-     const json = atob(base64);
-     return JSON.parse(json);
-   }
-   
-   function isTokenValid (token) {
-     if (!token) return false;
-     try {
-       const { exp } = decodeJwtPayload(token);     // fecha Unix (segundos)
-       const now = Date.now() / 1000;               // a segundos
-       return exp && exp - now > 60;                // 1 min de margen
-     } catch (_) {
-       return false;
-     }
-   }
-   
-   /* ---------- obtener token (cache + renovación) ---------- */
-   
-   async function fetchNewToken () {
-     console.log('🔄 Pidiendo token nuevo…');
-     const res = await fetch('https://www.talabarterialapacho.com/wp-content/get-jwt-token.php');
-     if (!res.ok) throw new Error('No se pudo obtener token');
-     return (await res.text()).trim();
-   }
-   
-   async function getToken () {
-     const saved = localStorage.getItem('lapacho_jwt');
-     if (isTokenValid(saved)) {
-       // reutilizamos token en cache
-       return saved;
-     }
-   
-     // venció o no existe → pedimos uno nuevo y lo guardamos
-     const fresh = await fetchNewToken();
-     localStorage.setItem('lapacho_jwt', fresh);
-     return fresh;
-   }
-   
+let productsAlreadyLoaded = false;
+// decodifica la parte intermedia del JWT (payload) sin bibliotecas externas
+function decodeJwtPayload (token) {
+  const payloadBase64 = token.split('.')[1];
+  // Base64url → Base64 estándar
+  const base64 = payloadBase64.replace(/-/g, '+').replace(/_/g, '/');
+  const json = atob(base64);
+  return JSON.parse(json);
+}
+
+function isTokenValid (token) {
+  if (!token) return false;
+  try {
+    const { exp } = decodeJwtPayload(token);     // fecha Unix (segundos)
+    const now = Date.now() / 1000;               // a segundos
+    return exp && exp - now > 60;                // 1 min de margen
+  } catch (_) {
+    return false;
+  }
+}
+
+/* ---------- obtener token (cache + renovación) ---------- */
+
+async function fetchNewToken () {
+  console.log('🔄 Pidiendo token nuevo…');
+  const res = await fetch(`${BASE_URL}/wp-content/get-jwt-token.php`);
+  if (!res.ok) throw new Error('No se pudo obtener token');
+  return (await res.text()).trim();
+}
+
+async function getToken () {
+  const saved = localStorage.getItem('lapacho_jwt');
+  if (isTokenValid(saved)) {
+    // reutilizamos token en cache
+    return saved;
+  }
+
+  // venció o no existe → pedimos uno nuevo y lo guardamos
+  const fresh = await fetchNewToken();
+  localStorage.setItem('lapacho_jwt', fresh);
+  return fresh;
+}
 
 /* =====================================================================
    2.  Utils UI
