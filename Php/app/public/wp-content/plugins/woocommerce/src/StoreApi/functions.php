@@ -93,7 +93,7 @@ function generate_jwt_token() {
 
         // Realizar la solicitud para obtener el token JWT, utilizando el nombre de usuario
         // Aquí la clave secreta ya es usada por el plugin JWT Authentication
-        $response = wp_remote_post('http://lapacho-1.local/wp-json/jwt-auth/v1/token', [
+        $response = wp_remote_post('https://www.talabarterialapacho.com/wp-json/jwt-auth/v1/token', [
             'body' => [
                 'username' => $username,
                 'password' => '',  // Como el usuario ya está autenticado, no necesitamos la contraseña

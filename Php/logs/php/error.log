@@ -128,11 +128,11 @@ CREATE TABLE wp_wc_orders_meta (
 [28-Feb-2025 13:37:56 UTC] Rejecting CORS from 
 [28-Feb-2025 13:37:58 UTC] Registering settings...
 [28-Feb-2025 13:37:58 UTC] PHP Warning:  Undefined array key "HTTP_ORIGIN" in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-content\plugins\wp-cors\wp-cors.php on line 29
-[28-Feb-2025 13:37:58 UTC] referer: http://lapacho-1.local/cart/, 
-[28-Feb-2025 13:37:58 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 13:37:58 UTC] referer: https://www.talabarterialapacho.com/cart/, 
+[28-Feb-2025 13:37:58 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 13:37:59 UTC] PHP Warning:  Undefined array key "HTTP_ORIGIN" in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-content\plugins\wp-cors\wp-cors.php on line 29
-[28-Feb-2025 13:37:59 UTC] referer: http://lapacho-1.local/cart/, 
-[28-Feb-2025 13:37:59 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 13:37:59 UTC] referer: https://www.talabarterialapacho.com/cart/, 
+[28-Feb-2025 13:37:59 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 13:38:01 UTC] referer: http://127.0.0.1:5500/, http://127.0.0.1:5500
 [28-Feb-2025 13:38:02 UTC] Test if CORS allowed for: http://127.0.0.1:5500/
 [28-Feb-2025 13:38:02 UTC]  allowed cors domains are: *
@@ -280,11 +280,11 @@ CREATE TABLE wp_wc_orders_meta (
 [28-Feb-2025 13:43:03 UTC]  allowed cors domains are: *
 [28-Feb-2025 13:43:03 UTC] Test referrer for match with *
 [28-Feb-2025 13:43:03 UTC] Rejecting CORS from *
-[28-Feb-2025 13:43:04 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 13:43:04 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 13:43:04 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 13:43:04 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 13:43:05 UTC] Registering settings...
-[28-Feb-2025 13:43:06 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 13:43:06 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 13:43:06 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 13:43:06 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 13:43:07 UTC] Registering settings...
 [28-Feb-2025 13:43:10 UTC] referer: http://127.0.0.1:5500/, http://127.0.0.1:5500
 [28-Feb-2025 13:43:10 UTC] Test if CORS allowed for: http://127.0.0.1:5500/
@@ -296,11 +296,11 @@ CREATE TABLE wp_wc_orders_meta (
 [28-Feb-2025 13:43:13 UTC]  allowed cors domains are: *
 [28-Feb-2025 13:43:13 UTC] Test referrer for match with *
 [28-Feb-2025 13:43:13 UTC] Rejecting CORS from *
-[28-Feb-2025 13:43:15 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 13:43:15 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 13:43:15 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 13:43:15 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 13:43:15 UTC] Registering settings...
-[28-Feb-2025 13:43:16 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 13:43:16 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 13:43:16 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 13:43:16 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 13:43:26 UTC] referer: http://127.0.0.1:5500/, http://127.0.0.1:5500
 [28-Feb-2025 13:43:26 UTC] Test if CORS allowed for: http://127.0.0.1:5500/
 [28-Feb-2025 13:43:26 UTC]  allowed cors domains are: *
@@ -326,11 +326,11 @@ CREATE TABLE wp_wc_orders_meta (
 [28-Feb-2025 13:43:30 UTC]  allowed cors domains are: *
 [28-Feb-2025 13:43:30 UTC] Test referrer for match with *
 [28-Feb-2025 13:43:30 UTC] Rejecting CORS from *
-[28-Feb-2025 13:43:31 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 13:43:31 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 13:43:31 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 13:43:31 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 13:43:31 UTC] Registering settings...
-[28-Feb-2025 13:43:33 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 13:43:33 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 13:43:33 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 13:43:33 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 13:43:52 UTC] referer: *, *
 [28-Feb-2025 13:43:52 UTC] Test if CORS allowed for: *
 [28-Feb-2025 13:43:52 UTC]  allowed cors domains are: *
@@ -341,13 +341,13 @@ CREATE TABLE wp_wc_orders_meta (
 [28-Feb-2025 13:43:59 UTC]  allowed cors domains are: *
 [28-Feb-2025 13:43:59 UTC] Test referrer for match with *
 [28-Feb-2025 13:43:59 UTC] Rejecting CORS from *
-[28-Feb-2025 13:44:01 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 13:44:01 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 13:44:01 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 13:44:01 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 13:44:01 UTC] Registering settings...
-[28-Feb-2025 13:44:02 UTC] referer: http://lapacho-1.local/cart/, http://lapacho-1.local
-[28-Feb-2025 13:44:02 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
-[28-Feb-2025 13:44:02 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 13:44:02 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 13:44:02 UTC] referer: https://www.talabarterialapacho.com/cart/, https://www.talabarterialapacho.com
+[28-Feb-2025 13:44:02 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
+[28-Feb-2025 13:44:02 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 13:44:02 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 13:44:07 UTC] Registering settings...
 [28-Feb-2025 13:44:13 UTC] referer: http://127.0.0.1:5500/, http://127.0.0.1:5500
 [28-Feb-2025 13:44:13 UTC] Test if CORS allowed for: http://127.0.0.1:5500/
@@ -359,11 +359,11 @@ CREATE TABLE wp_wc_orders_meta (
 [28-Feb-2025 13:44:25 UTC]  allowed cors domains are: *
 [28-Feb-2025 13:44:25 UTC] Test referrer for match with *
 [28-Feb-2025 13:44:25 UTC] Rejecting CORS from *
-[28-Feb-2025 13:44:27 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 13:44:27 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 13:44:27 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 13:44:27 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 13:44:27 UTC] Registering settings...
-[28-Feb-2025 13:44:28 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 13:44:28 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 13:44:28 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 13:44:28 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 13:45:09 UTC] Registering settings...
 [28-Feb-2025 13:46:11 UTC] Registering settings...
 [28-Feb-2025 13:46:32 UTC] referer: http://127.0.0.1:5500/, http://127.0.0.1:5500
@@ -396,11 +396,11 @@ CREATE TABLE wp_wc_orders_meta (
 [28-Feb-2025 13:46:36 UTC]  allowed cors domains are: *
 [28-Feb-2025 13:46:36 UTC] Test referrer for match with *
 [28-Feb-2025 13:46:36 UTC] Rejecting CORS from *
-[28-Feb-2025 13:46:38 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 13:46:38 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 13:46:38 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 13:46:38 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 13:46:38 UTC] Registering settings...
-[28-Feb-2025 13:46:39 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 13:46:39 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 13:46:39 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 13:46:39 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 13:47:11 UTC] Registering settings...
 [28-Feb-2025 13:48:12 UTC] Registering settings...
 [28-Feb-2025 13:48:49 UTC] referer: http://127.0.0.1:5500/, http://127.0.0.1:5500
@@ -418,11 +418,11 @@ CREATE TABLE wp_wc_orders_meta (
 [28-Feb-2025 13:49:51 UTC]  allowed cors domains are: *
 [28-Feb-2025 13:49:51 UTC] Test referrer for match with *
 [28-Feb-2025 13:49:51 UTC] Rejecting CORS from *
-[28-Feb-2025 13:49:53 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 13:49:53 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 13:49:53 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 13:49:53 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 13:49:53 UTC] Registering settings...
-[28-Feb-2025 13:49:55 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 13:49:55 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 13:49:55 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 13:49:55 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 13:49:59 UTC] Registering settings...
 [28-Feb-2025 13:51:19 UTC] referer: http://127.0.0.1:5500/, http://127.0.0.1:5500
 [28-Feb-2025 13:51:19 UTC] Test if CORS allowed for: http://127.0.0.1:5500/
@@ -449,11 +449,11 @@ CREATE TABLE wp_wc_orders_meta (
 [28-Feb-2025 13:51:25 UTC]  allowed cors domains are: *
 [28-Feb-2025 13:51:25 UTC] Test referrer for match with *
 [28-Feb-2025 13:51:25 UTC] Rejecting CORS from *
-[28-Feb-2025 13:51:27 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 13:51:27 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 13:51:27 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 13:51:27 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 13:51:27 UTC] Registering settings...
-[28-Feb-2025 13:51:28 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 13:51:28 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 13:51:28 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 13:51:28 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 13:51:30 UTC] Registering settings...
 [28-Feb-2025 13:51:54 UTC] referer: http://127.0.0.1:5500/, http://127.0.0.1:5500
 [28-Feb-2025 13:51:54 UTC] Test if CORS allowed for: http://127.0.0.1:5500/
@@ -465,11 +465,11 @@ CREATE TABLE wp_wc_orders_meta (
 [28-Feb-2025 13:51:59 UTC]  allowed cors domains are: *
 [28-Feb-2025 13:51:59 UTC] Test referrer for match with *
 [28-Feb-2025 13:51:59 UTC] Rejecting CORS from *
-[28-Feb-2025 13:52:01 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 13:52:01 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 13:52:01 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 13:52:01 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 13:52:01 UTC] Registering settings...
-[28-Feb-2025 13:52:02 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 13:52:02 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 13:52:02 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 13:52:02 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 13:52:32 UTC] Registering settings...
 [28-Feb-2025 14:01:46 UTC] referer: *, *
 [28-Feb-2025 14:01:46 UTC] Test if CORS allowed for: *
@@ -477,53 +477,53 @@ CREATE TABLE wp_wc_orders_meta (
 [28-Feb-2025 14:01:46 UTC] Test referrer for match with *
 [28-Feb-2025 14:01:46 UTC] Rejecting CORS from *
 [28-Feb-2025 14:01:49 UTC] Registering settings...
-[28-Feb-2025 14:01:54 UTC] referer: http://lapacho-1.local/, http://lapacho-1.local
-[28-Feb-2025 14:01:54 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 14:01:54 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 14:01:54 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 14:01:56 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 14:01:56 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 14:02:01 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 14:02:01 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 14:02:05 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 14:02:05 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 14:01:54 UTC] referer: https://www.talabarterialapacho.com/, https://www.talabarterialapacho.com
+[28-Feb-2025 14:01:54 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 14:01:54 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 14:01:54 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 14:01:56 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 14:01:56 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 14:02:01 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 14:02:01 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 14:02:05 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 14:02:05 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 14:02:05 UTC] Registering settings...
-[28-Feb-2025 14:02:13 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 14:02:13 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 14:02:17 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 14:02:17 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 14:02:13 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 14:02:13 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 14:02:17 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 14:02:17 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 14:02:17 UTC] Registering settings...
-[28-Feb-2025 14:02:20 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 14:02:20 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 14:02:20 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 14:02:20 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 14:02:34 UTC] referer: http://127.0.0.1:5500/, http://127.0.0.1:5500
 [28-Feb-2025 14:02:34 UTC] Test if CORS allowed for: http://127.0.0.1:5500/
 [28-Feb-2025 14:02:34 UTC]  allowed cors domains are: *
 [28-Feb-2025 14:02:34 UTC] Test referrer for match with *
 [28-Feb-2025 14:02:34 UTC] Allowing CORS from http://127.0.0.1:5500/
-[28-Feb-2025 14:02:38 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 14:02:38 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 14:02:42 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 14:02:42 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 14:02:38 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 14:02:38 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 14:02:42 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 14:02:42 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 14:02:42 UTC] Registering settings...
-[28-Feb-2025 14:02:45 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 14:02:45 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 14:02:45 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 14:02:45 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 14:03:31 UTC] referer: *, *
 [28-Feb-2025 14:03:31 UTC] Test if CORS allowed for: *
 [28-Feb-2025 14:03:31 UTC]  allowed cors domains are: *
 [28-Feb-2025 14:03:31 UTC] Test referrer for match with *
 [28-Feb-2025 14:03:31 UTC] Rejecting CORS from *
 [28-Feb-2025 14:03:32 UTC] Registering settings...
-[28-Feb-2025 14:03:36 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 14:03:36 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 14:03:41 UTC] referer: http://lapacho-1.local/, http://lapacho-1.local
-[28-Feb-2025 14:03:41 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 14:03:41 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 14:03:41 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 14:03:46 UTC] referer: http://lapacho-1.local/cart/, http://lapacho-1.local
-[28-Feb-2025 14:03:46 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 14:03:36 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 14:03:36 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 14:03:41 UTC] referer: https://www.talabarterialapacho.com/, https://www.talabarterialapacho.com
+[28-Feb-2025 14:03:41 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 14:03:41 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 14:03:41 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 14:03:46 UTC] referer: https://www.talabarterialapacho.com/cart/, https://www.talabarterialapacho.com
+[28-Feb-2025 14:03:46 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 14:03:46 UTC] Registering settings...
-[28-Feb-2025 14:03:50 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 14:03:50 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 14:03:50 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 14:03:50 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 14:04:03 UTC] referer: http://127.0.0.1:5500/, http://127.0.0.1:5500
 [28-Feb-2025 14:04:03 UTC] Test if CORS allowed for: http://127.0.0.1:5500/
 [28-Feb-2025 14:04:03 UTC]  allowed cors domains are: *
@@ -536,21 +536,21 @@ CREATE TABLE wp_wc_orders_meta (
 [28-Feb-2025 14:07:39 UTC]  allowed cors domains are: *
 [28-Feb-2025 14:07:39 UTC] Test referrer for match with *
 [28-Feb-2025 14:07:39 UTC] Rejecting CORS from *
-[28-Feb-2025 14:07:44 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 14:07:44 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 14:07:46 UTC] referer: http://lapacho-1.local/, http://lapacho-1.local
-[28-Feb-2025 14:07:46 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
+[28-Feb-2025 14:07:44 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 14:07:44 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 14:07:46 UTC] referer: https://www.talabarterialapacho.com/, https://www.talabarterialapacho.com
+[28-Feb-2025 14:07:46 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
 [28-Feb-2025 14:07:46 UTC] referer: *, *
 [28-Feb-2025 14:07:46 UTC] Test if CORS allowed for: *
 [28-Feb-2025 14:07:46 UTC]  allowed cors domains are: *
 [28-Feb-2025 14:07:46 UTC] Test referrer for match with *
 [28-Feb-2025 14:07:46 UTC] Rejecting CORS from *
-[28-Feb-2025 14:07:50 UTC] referer: http://lapacho-1.local/, http://lapacho-1.local
-[28-Feb-2025 14:07:50 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 14:07:50 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 14:07:50 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 14:07:54 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 14:07:54 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
+[28-Feb-2025 14:07:50 UTC] referer: https://www.talabarterialapacho.com/, https://www.talabarterialapacho.com
+[28-Feb-2025 14:07:50 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 14:07:50 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 14:07:50 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 14:07:54 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 14:07:54 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
 [28-Feb-2025 14:07:56 UTC] referer: http://127.0.0.1:5500/, http://127.0.0.1:5500
 [28-Feb-2025 14:07:56 UTC] Test if CORS allowed for: http://127.0.0.1:5500/
 [28-Feb-2025 14:07:56 UTC]  allowed cors domains are: *
@@ -561,10 +561,10 @@ CREATE TABLE wp_wc_orders_meta (
 [28-Feb-2025 14:12:30 UTC]  allowed cors domains are: *
 [28-Feb-2025 14:12:30 UTC] Test referrer for match with *
 [28-Feb-2025 14:12:30 UTC] Rejecting CORS from *
-[28-Feb-2025 14:12:36 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 14:12:36 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 14:12:36 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 14:12:36 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
+[28-Feb-2025 14:12:36 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 14:12:36 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 14:12:36 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 14:12:36 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
 [28-Feb-2025 14:12:47 UTC] referer: http://127.0.0.1:5500/, http://127.0.0.1:5500
 [28-Feb-2025 14:12:47 UTC] Test if CORS allowed for: http://127.0.0.1:5500/
 [28-Feb-2025 14:12:47 UTC]  allowed cors domains are: *
@@ -595,31 +595,31 @@ CREATE TABLE wp_wc_orders_meta (
 [28-Feb-2025 14:21:24 UTC]  allowed cors domains are: *
 [28-Feb-2025 14:21:24 UTC] Test referrer for match with *
 [28-Feb-2025 14:21:24 UTC] Rejecting CORS from *
-[28-Feb-2025 14:21:29 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 14:21:29 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 14:21:29 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 14:21:29 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
+[28-Feb-2025 14:21:29 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 14:21:29 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 14:21:29 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 14:21:29 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
 [28-Feb-2025 14:21:35 UTC] referer: *, *
 [28-Feb-2025 14:21:35 UTC] Test if CORS allowed for: *
 [28-Feb-2025 14:21:35 UTC]  allowed cors domains are: *
 [28-Feb-2025 14:21:35 UTC] Test referrer for match with *
 [28-Feb-2025 14:21:35 UTC] Rejecting CORS from *
-[28-Feb-2025 14:21:40 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 14:21:40 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 14:21:40 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 14:21:40 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 14:21:49 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 14:21:49 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 14:21:55 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 14:21:55 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
+[28-Feb-2025 14:21:40 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 14:21:40 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 14:21:40 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 14:21:40 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 14:21:49 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 14:21:49 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 14:21:55 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 14:21:55 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
 [28-Feb-2025 14:21:55 UTC] Registering settings...
-[28-Feb-2025 14:21:59 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 14:21:59 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
+[28-Feb-2025 14:21:59 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 14:21:59 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
 [28-Feb-2025 14:22:00 UTC] Registering settings...
-[28-Feb-2025 14:22:03 UTC] referer: http://lapacho-1.local/cart/, http://lapacho-1.local
-[28-Feb-2025 14:22:03 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
-[28-Feb-2025 14:22:03 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 14:22:03 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 14:22:03 UTC] referer: https://www.talabarterialapacho.com/cart/, https://www.talabarterialapacho.com
+[28-Feb-2025 14:22:03 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
+[28-Feb-2025 14:22:03 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 14:22:03 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 14:22:20 UTC] referer: http://127.0.0.1:5500/, http://127.0.0.1:5500
 [28-Feb-2025 14:22:20 UTC] Test if CORS allowed for: http://127.0.0.1:5500/
 [28-Feb-2025 14:22:20 UTC]  allowed cors domains are: *
@@ -630,10 +630,10 @@ CREATE TABLE wp_wc_orders_meta (
 [28-Feb-2025 14:25:20 UTC]  allowed cors domains are: *
 [28-Feb-2025 14:25:20 UTC] Test referrer for match with *
 [28-Feb-2025 14:25:20 UTC] Rejecting CORS from *
-[28-Feb-2025 14:25:27 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 14:25:27 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 14:25:27 UTC] referer: http://lapacho-1.local/, http://lapacho-1.local
-[28-Feb-2025 14:25:27 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
+[28-Feb-2025 14:25:27 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 14:25:27 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 14:25:27 UTC] referer: https://www.talabarterialapacho.com/, https://www.talabarterialapacho.com
+[28-Feb-2025 14:25:27 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
 [28-Feb-2025 14:25:37 UTC] referer: http://127.0.0.1:5500/, http://127.0.0.1:5500
 [28-Feb-2025 14:25:37 UTC] Test if CORS allowed for: http://127.0.0.1:5500/
 [28-Feb-2025 14:25:37 UTC]  allowed cors domains are: *
@@ -649,10 +649,10 @@ CREATE TABLE wp_wc_orders_meta (
 [28-Feb-2025 14:29:29 UTC]  allowed cors domains are: *
 [28-Feb-2025 14:29:29 UTC] Test referrer for match with *
 [28-Feb-2025 14:29:29 UTC] Rejecting CORS from *
-[28-Feb-2025 14:29:34 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 14:29:34 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 14:29:34 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 14:29:34 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
+[28-Feb-2025 14:29:34 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 14:29:34 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 14:29:34 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 14:29:34 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
 [28-Feb-2025 14:29:42 UTC] referer: http://127.0.0.1:5500/, http://127.0.0.1:5500
 [28-Feb-2025 14:29:42 UTC] Test if CORS allowed for: http://127.0.0.1:5500/
 [28-Feb-2025 14:29:42 UTC]  allowed cors domains are: *
@@ -663,10 +663,10 @@ CREATE TABLE wp_wc_orders_meta (
 [28-Feb-2025 14:33:27 UTC]  allowed cors domains are: *
 [28-Feb-2025 14:33:27 UTC] Test referrer for match with *
 [28-Feb-2025 14:33:27 UTC] Rejecting CORS from *
-[28-Feb-2025 14:33:31 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 14:33:31 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 14:33:31 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 14:33:31 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
+[28-Feb-2025 14:33:31 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 14:33:31 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 14:33:31 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 14:33:31 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
 [28-Feb-2025 14:33:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
 #0 C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-load.php(50): require_once()
@@ -723,29 +723,29 @@ Stack trace:
 [28-Feb-2025 14:41:49 UTC]  allowed cors domains are: *
 [28-Feb-2025 14:41:49 UTC] Test referrer for match with *
 [28-Feb-2025 14:41:49 UTC] Rejecting CORS from *
-[28-Feb-2025 14:41:52 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 14:41:52 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 14:41:52 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 14:41:52 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 14:41:56 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 14:41:56 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 14:41:59 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 14:41:59 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 14:41:52 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 14:41:52 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 14:41:52 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 14:41:52 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 14:41:56 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 14:41:56 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 14:41:59 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 14:41:59 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 14:41:59 UTC] Registering settings...
 [28-Feb-2025 14:42:07 UTC] referer: *, *
 [28-Feb-2025 14:42:07 UTC] Test if CORS allowed for: *
 [28-Feb-2025 14:42:07 UTC]  allowed cors domains are: *
 [28-Feb-2025 14:42:07 UTC] Test referrer for match with *
 [28-Feb-2025 14:42:07 UTC] Rejecting CORS from *
-[28-Feb-2025 14:42:13 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 14:42:13 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 14:42:15 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 14:42:15 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 14:42:13 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 14:42:13 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 14:42:15 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 14:42:15 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 14:42:15 UTC] Registering settings...
-[28-Feb-2025 14:42:18 UTC] referer: http://lapacho-1.local/cart/, http://lapacho-1.local
-[28-Feb-2025 14:42:18 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
-[28-Feb-2025 14:42:18 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 14:42:18 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 14:42:18 UTC] referer: https://www.talabarterialapacho.com/cart/, https://www.talabarterialapacho.com
+[28-Feb-2025 14:42:18 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
+[28-Feb-2025 14:42:18 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 14:42:18 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 14:42:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
 #0 C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-load.php(50): require_once()
@@ -781,13 +781,13 @@ Stack trace:
 #2 C:\Users\mampe\Local Sites\lapacho-1\app\public\index.php(17): require('C:\\Users\\mampe\\...')
 #3 {main}
   thrown in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 119
-[28-Feb-2025 14:56:33 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 14:56:33 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 14:56:36 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 14:56:36 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 14:56:33 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 14:56:33 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 14:56:36 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 14:56:36 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 14:56:36 UTC] Registering settings...
-[28-Feb-2025 14:56:37 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 14:56:37 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 14:56:37 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 14:56:37 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 14:57:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
 #0 C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-load.php(50): require_once()
@@ -851,10 +851,10 @@ Stack trace:
 [28-Feb-2025 17:45:24 UTC]  allowed cors domains are: *
 [28-Feb-2025 17:45:24 UTC] Test referrer for match with *
 [28-Feb-2025 17:45:24 UTC] Rejecting CORS from *
-[28-Feb-2025 17:45:32 UTC] referer: http://lapacho-1.local/, http://lapacho-1.local
-[28-Feb-2025 17:45:32 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 17:45:32 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 17:45:32 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
+[28-Feb-2025 17:45:32 UTC] referer: https://www.talabarterialapacho.com/, https://www.talabarterialapacho.com
+[28-Feb-2025 17:45:32 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 17:45:32 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 17:45:32 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
 [28-Feb-2025 17:53:15 UTC] Registering settings...
 [28-Feb-2025 17:53:24 UTC] Registering settings...
 [28-Feb-2025 17:54:24 UTC] Registering settings...
@@ -887,10 +887,10 @@ Stack trace:
 [28-Feb-2025 18:00:58 UTC]  allowed cors domains are: *
 [28-Feb-2025 18:00:58 UTC] Test referrer for match with *
 [28-Feb-2025 18:00:58 UTC] Rejecting CORS from *
-[28-Feb-2025 18:01:03 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 18:01:03 UTC] referer: http://lapacho-1.local/, http://lapacho-1.local
-[28-Feb-2025 18:01:03 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 18:01:03 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
+[28-Feb-2025 18:01:03 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 18:01:03 UTC] referer: https://www.talabarterialapacho.com/, https://www.talabarterialapacho.com
+[28-Feb-2025 18:01:03 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 18:01:03 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
 [28-Feb-2025 18:01:40 UTC] Registering settings...
 [28-Feb-2025 18:02:13 UTC] Registering settings...
 [28-Feb-2025 18:03:20 UTC] Registering settings...
@@ -906,10 +906,10 @@ Stack trace:
 [28-Feb-2025 18:03:30 UTC]  allowed cors domains are: *
 [28-Feb-2025 18:03:30 UTC] Test referrer for match with *
 [28-Feb-2025 18:03:30 UTC] Rejecting CORS from *
-[28-Feb-2025 18:03:35 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 18:03:35 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 18:03:35 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 18:03:35 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
+[28-Feb-2025 18:03:35 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 18:03:35 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 18:03:35 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 18:03:35 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
 [28-Feb-2025 18:03:38 UTC] referer: *, *
 [28-Feb-2025 18:03:38 UTC] Test if CORS allowed for: *
 [28-Feb-2025 18:03:38 UTC]  allowed cors domains are: *
@@ -920,12 +920,12 @@ Stack trace:
 [28-Feb-2025 18:03:57 UTC]  allowed cors domains are: *
 [28-Feb-2025 18:03:57 UTC] Test referrer for match with *
 [28-Feb-2025 18:03:57 UTC] Rejecting CORS from *
-[28-Feb-2025 18:04:03 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 18:04:03 UTC] referer: http://lapacho-1.local/, http://lapacho-1.local
-[28-Feb-2025 18:04:03 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 18:04:03 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 18:04:06 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 18:04:06 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
+[28-Feb-2025 18:04:03 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 18:04:03 UTC] referer: https://www.talabarterialapacho.com/, https://www.talabarterialapacho.com
+[28-Feb-2025 18:04:03 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 18:04:03 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 18:04:06 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 18:04:06 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
 [28-Feb-2025 18:04:51 UTC] Registering settings...
 [28-Feb-2025 18:05:50 UTC] Registering settings...
 [28-Feb-2025 18:06:35 UTC] Registering settings...
@@ -956,12 +956,12 @@ Stack trace:
 [28-Feb-2025 18:09:25 UTC]  allowed cors domains are: *
 [28-Feb-2025 18:09:25 UTC] Test referrer for match with *
 [28-Feb-2025 18:09:25 UTC] Rejecting CORS from *
-[28-Feb-2025 18:09:30 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 18:09:30 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 18:09:31 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 18:09:31 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 18:09:32 UTC] referer: http://lapacho-1.local/, http://lapacho-1.local
-[28-Feb-2025 18:09:32 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
+[28-Feb-2025 18:09:30 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 18:09:30 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 18:09:31 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 18:09:31 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 18:09:32 UTC] referer: https://www.talabarterialapacho.com/, https://www.talabarterialapacho.com
+[28-Feb-2025 18:09:32 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
 [28-Feb-2025 18:10:52 UTC] Registering settings...
 [28-Feb-2025 18:10:59 UTC] Registering settings...
 [28-Feb-2025 18:11:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
@@ -1066,16 +1066,16 @@ Stack trace:
 [28-Feb-2025 18:19:19 UTC]  allowed cors domains are: *
 [28-Feb-2025 18:19:19 UTC] Test referrer for match with *
 [28-Feb-2025 18:19:19 UTC] Rejecting CORS from *
-[28-Feb-2025 18:19:23 UTC] referer: http://lapacho-1.local/, http://lapacho-1.local
-[28-Feb-2025 18:19:23 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 18:19:24 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 18:19:24 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 18:19:26 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 18:19:26 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 18:19:28 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 18:19:28 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 18:19:32 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 18:19:32 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 18:19:23 UTC] referer: https://www.talabarterialapacho.com/, https://www.talabarterialapacho.com
+[28-Feb-2025 18:19:23 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 18:19:24 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 18:19:24 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 18:19:26 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 18:19:26 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 18:19:28 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 18:19:28 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 18:19:32 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 18:19:32 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 18:19:32 UTC] Registering settings...
 [28-Feb-2025 18:19:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
@@ -1084,13 +1084,13 @@ Stack trace:
 #2 C:\Users\mampe\Local Sites\lapacho-1\app\public\index.php(17): require('C:\\Users\\mampe\\...')
 #3 {main}
   thrown in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 119
-[28-Feb-2025 18:19:43 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 18:19:43 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 18:19:46 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 18:19:46 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 18:19:43 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 18:19:43 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 18:19:46 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 18:19:46 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 18:19:46 UTC] Registering settings...
-[28-Feb-2025 18:19:48 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 18:19:48 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 18:19:48 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 18:19:48 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 18:20:12 UTC] Registering settings...
 [28-Feb-2025 18:21:15 UTC] Registering settings...
 [28-Feb-2025 18:22:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
@@ -1246,8 +1246,8 @@ Stack trace:
 [28-Feb-2025 18:33:09 UTC]  allowed cors domains are: *
 [28-Feb-2025 18:33:09 UTC] Test referrer for match with *
 [28-Feb-2025 18:33:09 UTC] Rejecting CORS from *
-[28-Feb-2025 18:33:15 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 18:33:15 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 18:33:15 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 18:33:15 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 18:33:15 UTC] Registering settings...
 [28-Feb-2025 18:33:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
@@ -1297,11 +1297,11 @@ Stack trace:
 #2 C:\Users\mampe\Local Sites\lapacho-1\app\public\index.php(17): require('C:\\Users\\mampe\\...')
 #3 {main}
   thrown in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 119
-[28-Feb-2025 18:36:13 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 18:36:13 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 18:36:13 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 18:36:13 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 18:36:14 UTC] Registering settings...
-[28-Feb-2025 18:36:17 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 18:36:17 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 18:36:17 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 18:36:17 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 18:36:41 UTC] Registering settings...
 [28-Feb-2025 18:38:44 UTC] Registering settings...
 [28-Feb-2025 18:40:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
@@ -1387,11 +1387,11 @@ Stack trace:
 [28-Feb-2025 19:06:04 UTC]  allowed cors domains are: *
 [28-Feb-2025 19:06:04 UTC] Test referrer for match with *
 [28-Feb-2025 19:06:04 UTC] Rejecting CORS from *
-[28-Feb-2025 19:06:11 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 19:06:11 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 19:06:11 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 19:06:11 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 19:06:11 UTC] Registering settings...
-[28-Feb-2025 19:06:16 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 19:06:16 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 19:06:16 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 19:06:16 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 19:06:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
 #0 C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-load.php(50): require_once()
@@ -1405,11 +1405,11 @@ Stack trace:
 [28-Feb-2025 19:06:33 UTC] Test referrer for match with *
 [28-Feb-2025 19:06:33 UTC] Rejecting CORS from *
 [28-Feb-2025 19:06:33 UTC] Registering settings...
-[28-Feb-2025 19:06:38 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 19:06:38 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 19:06:38 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 19:06:38 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 19:06:38 UTC] Registering settings...
-[28-Feb-2025 19:06:42 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 19:06:42 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 19:06:42 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 19:06:42 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 19:08:31 UTC] Registering settings...
 [28-Feb-2025 19:09:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
@@ -1517,8 +1517,8 @@ Stack trace:
 #3 {main}
   thrown in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 119
 [28-Feb-2025 19:18:42 UTC] Registering settings...
-[28-Feb-2025 19:19:27 UTC] referer: http://lapacho-1.local/wp-admin/plugins.php, *
-[28-Feb-2025 19:19:27 UTC] CORS plugin ignoring local request: http://lapacho-1.local/wp-admin/plugins.php
+[28-Feb-2025 19:19:27 UTC] referer: https://www.talabarterialapacho.com/wp-admin/plugins.php, *
+[28-Feb-2025 19:19:27 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/wp-admin/plugins.php
 [28-Feb-2025 19:19:27 UTC] Registering settings...
 [28-Feb-2025 19:19:30 UTC] referer: *, *
 [28-Feb-2025 19:19:30 UTC] Test if CORS allowed for: *
@@ -1551,10 +1551,10 @@ Stack trace:
 #2 C:\Users\mampe\Local Sites\lapacho-1\app\public\index.php(17): require('C:\\Users\\mampe\\...')
 #3 {main}
   thrown in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 119
-[28-Feb-2025 19:19:57 UTC] referer: http://lapacho-1.local/wp-admin/plugins.php, *
-[28-Feb-2025 19:19:57 UTC] CORS plugin ignoring local request: http://lapacho-1.local/wp-admin/plugins.php
-[28-Feb-2025 19:20:03 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 19:20:03 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 19:19:57 UTC] referer: https://www.talabarterialapacho.com/wp-admin/plugins.php, *
+[28-Feb-2025 19:19:57 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/wp-admin/plugins.php
+[28-Feb-2025 19:20:03 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 19:20:03 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 19:20:03 UTC] Registering settings...
 [28-Feb-2025 19:20:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
@@ -1563,8 +1563,8 @@ Stack trace:
 #2 C:\Users\mampe\Local Sites\lapacho-1\app\public\index.php(17): require('C:\\Users\\mampe\\...')
 #3 {main}
   thrown in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 119
-[28-Feb-2025 19:20:06 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 19:20:06 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 19:20:06 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 19:20:06 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 19:20:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
 #0 C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-load.php(50): require_once()
@@ -1572,8 +1572,8 @@ Stack trace:
 #2 C:\Users\mampe\Local Sites\lapacho-1\app\public\index.php(17): require('C:\\Users\\mampe\\...')
 #3 {main}
   thrown in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 119
-[28-Feb-2025 19:20:08 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 19:20:08 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 19:20:08 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 19:20:08 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 19:20:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
 #0 C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-load.php(50): require_once()
@@ -1634,16 +1634,16 @@ Stack trace:
 [28-Feb-2025 19:28:50 UTC]  allowed cors domains are: *
 [28-Feb-2025 19:28:50 UTC] Test referrer for match with *
 [28-Feb-2025 19:28:50 UTC] Rejecting CORS from *
-[28-Feb-2025 19:28:54 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 19:28:54 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
-[28-Feb-2025 19:28:57 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 19:28:57 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 19:28:54 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 19:28:54 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
+[28-Feb-2025 19:28:57 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 19:28:57 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 19:28:57 UTC] Registering settings...
 [28-Feb-2025 19:29:03 UTC] Registering settings...
-[28-Feb-2025 19:29:05 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 19:29:05 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
-[28-Feb-2025 19:29:08 UTC] referer: http://lapacho-1.local/wp-admin/plugins.php, *
-[28-Feb-2025 19:29:08 UTC] CORS plugin ignoring local request: http://lapacho-1.local/wp-admin/plugins.php
+[28-Feb-2025 19:29:05 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 19:29:05 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
+[28-Feb-2025 19:29:08 UTC] referer: https://www.talabarterialapacho.com/wp-admin/plugins.php, *
+[28-Feb-2025 19:29:08 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/wp-admin/plugins.php
 [28-Feb-2025 19:30:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
 #0 C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-load.php(50): require_once()
@@ -1676,16 +1676,16 @@ Stack trace:
 [28-Feb-2025 19:34:45 UTC]  allowed cors domains are: *
 [28-Feb-2025 19:34:45 UTC] Test referrer for match with *
 [28-Feb-2025 19:34:45 UTC] Rejecting CORS from *
-[28-Feb-2025 19:34:49 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 19:34:49 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
-[28-Feb-2025 19:34:52 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 19:34:52 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 19:34:49 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 19:34:49 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
+[28-Feb-2025 19:34:52 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 19:34:52 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 19:34:52 UTC] Registering settings...
 [28-Feb-2025 19:34:58 UTC] Registering settings...
-[28-Feb-2025 19:35:01 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 19:35:01 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
-[28-Feb-2025 19:35:05 UTC] referer: http://lapacho-1.local/wp-admin/plugins.php, *
-[28-Feb-2025 19:35:05 UTC] CORS plugin ignoring local request: http://lapacho-1.local/wp-admin/plugins.php
+[28-Feb-2025 19:35:01 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 19:35:01 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
+[28-Feb-2025 19:35:05 UTC] referer: https://www.talabarterialapacho.com/wp-admin/plugins.php, *
+[28-Feb-2025 19:35:05 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/wp-admin/plugins.php
 [28-Feb-2025 19:35:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
 #0 C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-load.php(50): require_once()
@@ -1731,18 +1731,18 @@ Stack trace:
   thrown in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 119
 [28-Feb-2025 19:38:52 UTC] Registering settings...
 [28-Feb-2025 19:38:55 UTC] Registering settings...
-[28-Feb-2025 19:39:00 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 19:39:00 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 19:39:00 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 19:39:00 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 19:39:00 UTC] Registering settings...
-[28-Feb-2025 19:39:03 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 19:39:03 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
-[28-Feb-2025 19:39:03 UTC] referer: http://lapacho-1.local/cart/, http://lapacho-1.local
-[28-Feb-2025 19:39:03 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
-[28-Feb-2025 19:39:06 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 19:39:06 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 19:39:03 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 19:39:03 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
+[28-Feb-2025 19:39:03 UTC] referer: https://www.talabarterialapacho.com/cart/, https://www.talabarterialapacho.com
+[28-Feb-2025 19:39:03 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
+[28-Feb-2025 19:39:06 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 19:39:06 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 19:39:06 UTC] Registering settings...
-[28-Feb-2025 19:39:14 UTC] referer: http://lapacho-1.local/wp-admin/plugins.php?plugin_status=all&paged=1&s, *
-[28-Feb-2025 19:39:14 UTC] CORS plugin ignoring local request: http://lapacho-1.local/wp-admin/plugins.php?plugin_status=all&paged=1&s
+[28-Feb-2025 19:39:14 UTC] referer: https://www.talabarterialapacho.com/wp-admin/plugins.php?plugin_status=all&paged=1&s, *
+[28-Feb-2025 19:39:14 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/wp-admin/plugins.php?plugin_status=all&paged=1&s
 [28-Feb-2025 19:39:19 UTC] referer: http://127.0.0.1:5501/, http://127.0.0.1:5501
 [28-Feb-2025 19:39:19 UTC] Test if CORS allowed for: http://127.0.0.1:5501/
 [28-Feb-2025 19:39:19 UTC]  allowed cors domains are: *
@@ -1777,17 +1777,17 @@ Stack trace:
 #3 {main}
   thrown in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 119
 [28-Feb-2025 19:40:40 UTC] Registering settings...
-[28-Feb-2025 19:40:48 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 19:40:48 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
-[28-Feb-2025 19:40:53 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 19:40:53 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 19:40:48 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 19:40:48 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
+[28-Feb-2025 19:40:53 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 19:40:53 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 19:40:53 UTC] Registering settings...
-[28-Feb-2025 19:40:56 UTC] referer: http://lapacho-1.local/cart/, http://lapacho-1.local
-[28-Feb-2025 19:40:56 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
-[28-Feb-2025 19:41:00 UTC] referer: http://lapacho-1.local/wp-admin/admin.php?page=enable-cors, *
-[28-Feb-2025 19:41:00 UTC] CORS plugin ignoring local request: http://lapacho-1.local/wp-admin/admin.php?page=enable-cors
-[28-Feb-2025 19:41:02 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 19:41:02 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 19:40:56 UTC] referer: https://www.talabarterialapacho.com/cart/, https://www.talabarterialapacho.com
+[28-Feb-2025 19:40:56 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
+[28-Feb-2025 19:41:00 UTC] referer: https://www.talabarterialapacho.com/wp-admin/admin.php?page=enable-cors, *
+[28-Feb-2025 19:41:00 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/wp-admin/admin.php?page=enable-cors
+[28-Feb-2025 19:41:02 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 19:41:02 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 19:41:28 UTC] Registering settings...
 [28-Feb-2025 19:41:29 UTC] referer: *, *
 [28-Feb-2025 19:41:29 UTC] Test if CORS allowed for: *
@@ -1801,8 +1801,8 @@ Stack trace:
 #2 C:\Users\mampe\Local Sites\lapacho-1\app\public\index.php(17): require('C:\\Users\\mampe\\...')
 #3 {main}
   thrown in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 119
-[28-Feb-2025 19:41:32 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 19:41:32 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 19:41:32 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 19:41:32 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 19:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
 #0 C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-load.php(50): require_once()
@@ -1810,15 +1810,15 @@ Stack trace:
 #2 C:\Users\mampe\Local Sites\lapacho-1\app\public\index.php(17): require('C:\\Users\\mampe\\...')
 #3 {main}
   thrown in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 119
-[28-Feb-2025 19:41:35 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 19:41:35 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 19:41:35 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 19:41:35 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 19:41:35 UTC] Registering settings...
-[28-Feb-2025 19:41:37 UTC] referer: http://lapacho-1.local/cart/, http://lapacho-1.local
-[28-Feb-2025 19:41:37 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
-[28-Feb-2025 19:41:43 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 19:41:43 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
-[28-Feb-2025 19:41:48 UTC] referer: http://lapacho-1.local/wp-admin/admin.php?page=enable-cors, *
-[28-Feb-2025 19:41:48 UTC] CORS plugin ignoring local request: http://lapacho-1.local/wp-admin/admin.php?page=enable-cors
+[28-Feb-2025 19:41:37 UTC] referer: https://www.talabarterialapacho.com/cart/, https://www.talabarterialapacho.com
+[28-Feb-2025 19:41:37 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
+[28-Feb-2025 19:41:43 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 19:41:43 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
+[28-Feb-2025 19:41:48 UTC] referer: https://www.talabarterialapacho.com/wp-admin/admin.php?page=enable-cors, *
+[28-Feb-2025 19:41:48 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/wp-admin/admin.php?page=enable-cors
 [28-Feb-2025 19:41:52 UTC] referer: http://127.0.0.1:5501/, http://127.0.0.1:5501
 [28-Feb-2025 19:41:52 UTC] Test if CORS allowed for: http://127.0.0.1:5501/
 [28-Feb-2025 19:41:52 UTC]  allowed cors domains are: *
@@ -1847,17 +1847,17 @@ Stack trace:
 [28-Feb-2025 19:46:21 UTC]  allowed cors domains are: *
 [28-Feb-2025 19:46:21 UTC] Test referrer for match with *
 [28-Feb-2025 19:46:21 UTC] Rejecting CORS from *
-[28-Feb-2025 19:46:32 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 19:46:32 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 19:46:32 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 19:46:32 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 19:46:33 UTC] Registering settings...
-[28-Feb-2025 19:46:35 UTC] referer: http://lapacho-1.local/cart/, http://lapacho-1.local
-[28-Feb-2025 19:46:35 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
-[28-Feb-2025 19:46:35 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 19:46:35 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
-[28-Feb-2025 19:46:43 UTC] referer: http://lapacho-1.local/wp-admin/admin.php?page=enable-cors, *
-[28-Feb-2025 19:46:43 UTC] CORS plugin ignoring local request: http://lapacho-1.local/wp-admin/admin.php?page=enable-cors
-[28-Feb-2025 19:46:47 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 19:46:47 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 19:46:35 UTC] referer: https://www.talabarterialapacho.com/cart/, https://www.talabarterialapacho.com
+[28-Feb-2025 19:46:35 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
+[28-Feb-2025 19:46:35 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 19:46:35 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
+[28-Feb-2025 19:46:43 UTC] referer: https://www.talabarterialapacho.com/wp-admin/admin.php?page=enable-cors, *
+[28-Feb-2025 19:46:43 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/wp-admin/admin.php?page=enable-cors
+[28-Feb-2025 19:46:47 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 19:46:47 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 19:47:32 UTC] Registering settings...
 [28-Feb-2025 19:48:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
@@ -1894,12 +1894,12 @@ Stack trace:
 [28-Feb-2025 19:55:07 UTC] Registering settings...
 [28-Feb-2025 19:55:09 UTC] Registering settings...
 [28-Feb-2025 19:55:16 UTC] Registering settings...
-[28-Feb-2025 19:55:24 UTC] referer: http://lapacho-1.local/wp-admin/, *
-[28-Feb-2025 19:55:24 UTC] CORS plugin ignoring local request: http://lapacho-1.local/wp-admin/
-[28-Feb-2025 19:55:28 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 19:55:28 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 19:55:29 UTC] referer: http://lapacho-1.local/, http://lapacho-1.local
-[28-Feb-2025 19:55:29 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
+[28-Feb-2025 19:55:24 UTC] referer: https://www.talabarterialapacho.com/wp-admin/, *
+[28-Feb-2025 19:55:24 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/wp-admin/
+[28-Feb-2025 19:55:28 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 19:55:28 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 19:55:29 UTC] referer: https://www.talabarterialapacho.com/, https://www.talabarterialapacho.com
+[28-Feb-2025 19:55:29 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
 [28-Feb-2025 19:56:06 UTC] Registering settings...
 [28-Feb-2025 19:56:52 UTC] Registering settings...
 [28-Feb-2025 19:57:12 UTC] Registering settings...
@@ -1907,8 +1907,8 @@ Stack trace:
 [28-Feb-2025 19:59:17 UTC] Registering settings...
 [28-Feb-2025 20:00:56 UTC] Registering settings...
 [28-Feb-2025 20:01:28 UTC] Registering settings...
-[28-Feb-2025 20:01:55 UTC] referer: http://lapacho-1.local/wp-admin/admin.php?page=wc-status, *
-[28-Feb-2025 20:01:55 UTC] CORS plugin ignoring local request: http://lapacho-1.local/wp-admin/admin.php?page=wc-status
+[28-Feb-2025 20:01:55 UTC] referer: https://www.talabarterialapacho.com/wp-admin/admin.php?page=wc-status, *
+[28-Feb-2025 20:01:55 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/wp-admin/admin.php?page=wc-status
 [28-Feb-2025 20:02:40 UTC] Registering settings...
 [28-Feb-2025 20:04:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
@@ -3129,12 +3129,12 @@ Stack trace:
 #2 C:\Users\mampe\Local Sites\lapacho-1\app\public\index.php(17): require('C:\\Users\\mampe\\...')
 #3 {main}
   thrown in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 119
-[28-Feb-2025 21:30:45 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 21:30:45 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
+[28-Feb-2025 21:30:45 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 21:30:45 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
 [28-Feb-2025 21:30:55 UTC] Registering settings...
 [28-Feb-2025 21:30:55 UTC] Registering settings...
-[28-Feb-2025 21:30:58 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 21:30:58 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 21:30:58 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 21:30:58 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 21:31:55 UTC] Registering settings...
 [28-Feb-2025 21:33:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
@@ -3236,10 +3236,10 @@ Stack trace:
 #2 C:\Users\mampe\Local Sites\lapacho-1\app\public\index.php(17): require('C:\\Users\\mampe\\...')
 #3 {main}
   thrown in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 119
-[28-Feb-2025 21:36:08 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 21:36:08 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
-[28-Feb-2025 21:36:11 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 21:36:11 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
+[28-Feb-2025 21:36:08 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 21:36:08 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
+[28-Feb-2025 21:36:11 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 21:36:11 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
 [28-Feb-2025 21:36:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
 #0 C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-load.php(50): require_once()
@@ -3355,10 +3355,10 @@ Stack trace:
 #3 {main}
   thrown in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 119
 [28-Feb-2025 21:43:16 UTC] Registering settings...
-[28-Feb-2025 21:43:17 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 21:43:17 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
-[28-Feb-2025 21:43:18 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 21:43:18 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 21:43:17 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 21:43:17 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
+[28-Feb-2025 21:43:18 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 21:43:18 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 21:43:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
 #0 C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-load.php(50): require_once()
@@ -3382,8 +3382,8 @@ Stack trace:
 #3 {main}
   thrown in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 119
 [28-Feb-2025 21:43:22 UTC] Registering settings...
-[28-Feb-2025 21:43:23 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 21:43:23 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
+[28-Feb-2025 21:43:23 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 21:43:23 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
 [28-Feb-2025 21:43:26 UTC] Registering settings...
 [28-Feb-2025 21:43:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
@@ -3392,8 +3392,8 @@ Stack trace:
 #2 C:\Users\mampe\Local Sites\lapacho-1\app\public\index.php(17): require('C:\\Users\\mampe\\...')
 #3 {main}
   thrown in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 119
-[28-Feb-2025 21:43:28 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 21:43:28 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
+[28-Feb-2025 21:43:28 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 21:43:28 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
 [28-Feb-2025 21:43:39 UTC] Registering settings...
 [28-Feb-2025 21:43:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
@@ -3444,8 +3444,8 @@ Stack trace:
   thrown in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 119
 [28-Feb-2025 21:43:54 UTC] PHP Parse error:  Unclosed '{' on line 223 in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-content\themes\astra\functions.php on line 244
 [28-Feb-2025 21:43:55 UTC] PHP Parse error:  Unclosed '{' on line 223 in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-content\themes\astra\functions.php on line 244
-[28-Feb-2025 21:44:38 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 21:44:38 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
+[28-Feb-2025 21:44:38 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 21:44:38 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
 [28-Feb-2025 21:44:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
 #0 C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-load.php(50): require_once()
@@ -3461,10 +3461,10 @@ Stack trace:
 #3 {main}
   thrown in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 119
 [28-Feb-2025 21:44:41 UTC] Registering settings...
-[28-Feb-2025 21:44:44 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 21:44:44 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 21:44:44 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 21:44:44 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
+[28-Feb-2025 21:44:44 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 21:44:44 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 21:44:44 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 21:44:44 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
 [28-Feb-2025 21:44:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
 #0 C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-load.php(50): require_once()
@@ -3530,38 +3530,38 @@ Stack trace:
 [28-Feb-2025 21:49:11 UTC]  allowed cors domains are: *
 [28-Feb-2025 21:49:11 UTC] Test referrer for match with *
 [28-Feb-2025 21:49:11 UTC] Rejecting CORS from *
-[28-Feb-2025 21:49:18 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 21:49:18 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 21:49:24 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 21:49:24 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 21:49:18 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 21:49:18 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 21:49:24 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 21:49:24 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 21:49:24 UTC] Registering settings...
-[28-Feb-2025 21:49:27 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 21:49:27 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
-[28-Feb-2025 21:49:27 UTC] referer: http://lapacho-1.local/cart/, http://lapacho-1.local
-[28-Feb-2025 21:49:27 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 21:49:27 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 21:49:27 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
+[28-Feb-2025 21:49:27 UTC] referer: https://www.talabarterialapacho.com/cart/, https://www.talabarterialapacho.com
+[28-Feb-2025 21:49:27 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 21:49:36 UTC] referer: http://127.0.0.1:5501/, *
 [28-Feb-2025 21:49:36 UTC] Test if CORS allowed for: http://127.0.0.1:5501/
 [28-Feb-2025 21:49:36 UTC]  allowed cors domains are: *
 [28-Feb-2025 21:49:36 UTC] Test referrer for match with *
 [28-Feb-2025 21:49:36 UTC] Allowing CORS from http://127.0.0.1:5501/
-[28-Feb-2025 21:49:42 UTC] referer: http://lapacho-1.local/producto/postcard-v2/, *
-[28-Feb-2025 21:49:42 UTC] CORS plugin ignoring local request: http://lapacho-1.local/producto/postcard-v2/
+[28-Feb-2025 21:49:42 UTC] referer: https://www.talabarterialapacho.com/producto/postcard-v2/, *
+[28-Feb-2025 21:49:42 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/producto/postcard-v2/
 [28-Feb-2025 21:49:42 UTC] Registering settings...
-[28-Feb-2025 21:49:44 UTC] referer: http://lapacho-1.local/producto/postcard-v2/, http://lapacho-1.local
-[28-Feb-2025 21:49:44 UTC] CORS plugin ignoring local request: http://lapacho-1.local/producto/postcard-v2/
-[28-Feb-2025 21:49:46 UTC] referer: http://lapacho-1.local/cart/, http://lapacho-1.local
-[28-Feb-2025 21:49:46 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 21:49:44 UTC] referer: https://www.talabarterialapacho.com/producto/postcard-v2/, https://www.talabarterialapacho.com
+[28-Feb-2025 21:49:44 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/producto/postcard-v2/
+[28-Feb-2025 21:49:46 UTC] referer: https://www.talabarterialapacho.com/cart/, https://www.talabarterialapacho.com
+[28-Feb-2025 21:49:46 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 21:49:56 UTC] Registering settings...
 [28-Feb-2025 21:50:15 UTC] referer: http://127.0.0.1:5501/, *
 [28-Feb-2025 21:50:15 UTC] Test if CORS allowed for: http://127.0.0.1:5501/
 [28-Feb-2025 21:50:15 UTC]  allowed cors domains are: *
 [28-Feb-2025 21:50:15 UTC] Test referrer for match with *
 [28-Feb-2025 21:50:15 UTC] Allowing CORS from http://127.0.0.1:5501/
-[28-Feb-2025 21:50:20 UTC] referer: http://lapacho-1.local/producto/postcard-v1/, *
-[28-Feb-2025 21:50:20 UTC] CORS plugin ignoring local request: http://lapacho-1.local/producto/postcard-v1/
+[28-Feb-2025 21:50:20 UTC] referer: https://www.talabarterialapacho.com/producto/postcard-v1/, *
+[28-Feb-2025 21:50:20 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/producto/postcard-v1/
 [28-Feb-2025 21:50:20 UTC] Registering settings...
-[28-Feb-2025 21:50:24 UTC] referer: http://lapacho-1.local/producto/postcard-v1/, http://lapacho-1.local
-[28-Feb-2025 21:50:24 UTC] CORS plugin ignoring local request: http://lapacho-1.local/producto/postcard-v1/
+[28-Feb-2025 21:50:24 UTC] referer: https://www.talabarterialapacho.com/producto/postcard-v1/, https://www.talabarterialapacho.com
+[28-Feb-2025 21:50:24 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/producto/postcard-v1/
 [28-Feb-2025 21:51:57 UTC] Registering settings...
 [28-Feb-2025 21:53:59 UTC] Registering settings...
 [28-Feb-2025 21:56:00 UTC] Registering settings...
@@ -3970,13 +3970,13 @@ Stack trace:
 #2 C:\Users\mampe\Local Sites\lapacho-1\app\public\index.php(17): require('C:\\Users\\mampe\\...')
 #3 {main}
   thrown in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 119
-[28-Feb-2025 22:57:38 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 22:57:38 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 22:57:42 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 22:57:42 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 22:57:38 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 22:57:38 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 22:57:42 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 22:57:42 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 22:57:42 UTC] Registering settings...
-[28-Feb-2025 22:57:44 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 22:57:44 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 22:57:44 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 22:57:44 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 22:57:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
 #0 C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-load.php(50): require_once()
@@ -3992,13 +3992,13 @@ Stack trace:
 #2 C:\Users\mampe\Local Sites\lapacho-1\app\public\index.php(17): require('C:\\Users\\mampe\\...')
 #3 {main}
   thrown in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 119
-[28-Feb-2025 22:58:02 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 22:58:02 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 22:58:06 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 22:58:06 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 22:58:02 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 22:58:02 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 22:58:06 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 22:58:06 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 22:58:06 UTC] Registering settings...
-[28-Feb-2025 22:58:08 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 22:58:08 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 22:58:08 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 22:58:08 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 22:58:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
 #0 C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-load.php(50): require_once()
@@ -4484,13 +4484,13 @@ Stack trace:
 #3 {main}
   thrown in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 119
 [28-Feb-2025 23:36:13 UTC] Registering settings...
-[28-Feb-2025 23:36:14 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 23:36:14 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 23:36:16 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 23:36:16 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 23:36:14 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 23:36:14 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 23:36:16 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 23:36:16 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 23:36:16 UTC] Registering settings...
-[28-Feb-2025 23:36:17 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 23:36:17 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 23:36:17 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 23:36:17 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 23:37:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
 #0 C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-load.php(50): require_once()
@@ -4585,17 +4585,17 @@ Stack trace:
 #3 {main}
   thrown in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 119
 [28-Feb-2025 23:56:00 UTC] Registering settings...
-[28-Feb-2025 23:56:04 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 23:56:04 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 23:56:11 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 23:56:11 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 23:56:04 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 23:56:04 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 23:56:11 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 23:56:11 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 23:56:11 UTC] Registering settings...
-[28-Feb-2025 23:56:12 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 23:56:12 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
-[28-Feb-2025 23:56:13 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 23:56:13 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 23:56:15 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 23:56:15 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 23:56:12 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 23:56:12 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
+[28-Feb-2025 23:56:13 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 23:56:13 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 23:56:15 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 23:56:15 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 23:56:16 UTC] Registering settings...
 [28-Feb-2025 23:56:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
@@ -4612,13 +4612,13 @@ Stack trace:
 #2 C:\Users\mampe\Local Sites\lapacho-1\app\public\index.php(17): require('C:\\Users\\mampe\\...')
 #3 {main}
   thrown in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 119
-[28-Feb-2025 23:56:27 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 23:56:27 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 23:56:28 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 23:56:28 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 23:56:27 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 23:56:27 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 23:56:28 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 23:56:28 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 23:56:29 UTC] Registering settings...
-[28-Feb-2025 23:56:30 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 23:56:30 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 23:56:30 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 23:56:30 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 23:56:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
 #0 C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-load.php(50): require_once()
@@ -4679,13 +4679,13 @@ Stack trace:
 #2 C:\Users\mampe\Local Sites\lapacho-1\app\public\index.php(17): require('C:\\Users\\mampe\\...')
 #3 {main}
   thrown in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 119
-[28-Feb-2025 23:57:23 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 23:57:23 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 23:57:25 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 23:57:25 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 23:57:23 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 23:57:23 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 23:57:25 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 23:57:25 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 23:57:25 UTC] Registering settings...
-[28-Feb-2025 23:57:26 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 23:57:26 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 23:57:26 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 23:57:26 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 23:57:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
 #0 C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-load.php(50): require_once()
@@ -4722,15 +4722,15 @@ Stack trace:
 [28-Feb-2025 23:58:35 UTC]  allowed cors domains are: *
 [28-Feb-2025 23:58:35 UTC] Test referrer for match with *
 [28-Feb-2025 23:58:35 UTC] Rejecting CORS from *
-[28-Feb-2025 23:58:47 UTC] referer: http://lapacho-1.local/, *
-[28-Feb-2025 23:58:47 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[28-Feb-2025 23:58:48 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 23:58:48 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 23:58:47 UTC] referer: https://www.talabarterialapacho.com/, *
+[28-Feb-2025 23:58:47 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[28-Feb-2025 23:58:48 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 23:58:48 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [28-Feb-2025 23:58:48 UTC] Registering settings...
-[28-Feb-2025 23:58:49 UTC] referer: http://lapacho-1.local/cart/, http://lapacho-1.local
-[28-Feb-2025 23:58:49 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
-[28-Feb-2025 23:58:49 UTC] referer: http://lapacho-1.local/cart/, *
-[28-Feb-2025 23:58:49 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[28-Feb-2025 23:58:49 UTC] referer: https://www.talabarterialapacho.com/cart/, https://www.talabarterialapacho.com
+[28-Feb-2025 23:58:49 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
+[28-Feb-2025 23:58:49 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[28-Feb-2025 23:58:49 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [01-Mar-2025 00:00:02 UTC] Registering settings...
 [01-Mar-2025 00:00:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
@@ -4761,13 +4761,13 @@ Stack trace:
 #2 C:\Users\mampe\Local Sites\lapacho-1\app\public\index.php(17): require('C:\\Users\\mampe\\...')
 #3 {main}
   thrown in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 119
-[01-Mar-2025 00:00:42 UTC] referer: http://lapacho-1.local/, *
-[01-Mar-2025 00:00:42 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[01-Mar-2025 00:00:44 UTC] referer: http://lapacho-1.local/cart/, *
-[01-Mar-2025 00:00:44 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[01-Mar-2025 00:00:42 UTC] referer: https://www.talabarterialapacho.com/, *
+[01-Mar-2025 00:00:42 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[01-Mar-2025 00:00:44 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[01-Mar-2025 00:00:44 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [01-Mar-2025 00:00:44 UTC] Registering settings...
-[01-Mar-2025 00:00:45 UTC] referer: http://lapacho-1.local/cart/, *
-[01-Mar-2025 00:00:45 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[01-Mar-2025 00:00:45 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[01-Mar-2025 00:00:45 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [01-Mar-2025 00:02:03 UTC] Registering settings...
 [01-Mar-2025 00:03:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
@@ -4873,13 +4873,13 @@ Stack trace:
 #2 C:\Users\mampe\Local Sites\lapacho-1\app\public\index.php(17): require('C:\\Users\\mampe\\...')
 #3 {main}
   thrown in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 119
-[01-Mar-2025 00:09:27 UTC] referer: http://lapacho-1.local/, *
-[01-Mar-2025 00:09:27 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[01-Mar-2025 00:09:29 UTC] referer: http://lapacho-1.local/cart/, *
-[01-Mar-2025 00:09:29 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[01-Mar-2025 00:09:27 UTC] referer: https://www.talabarterialapacho.com/, *
+[01-Mar-2025 00:09:27 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[01-Mar-2025 00:09:29 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[01-Mar-2025 00:09:29 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [01-Mar-2025 00:09:29 UTC] Registering settings...
-[01-Mar-2025 00:09:30 UTC] referer: http://lapacho-1.local/cart/, *
-[01-Mar-2025 00:09:30 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[01-Mar-2025 00:09:30 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[01-Mar-2025 00:09:30 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [01-Mar-2025 00:10:28 UTC] Registering settings...
 [01-Mar-2025 00:10:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
@@ -4910,50 +4910,50 @@ Stack trace:
 #2 C:\Users\mampe\Local Sites\lapacho-1\app\public\index.php(17): require('C:\\Users\\mampe\\...')
 #3 {main}
   thrown in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 119
-[01-Mar-2025 00:11:00 UTC] referer: http://lapacho-1.local/, *
-[01-Mar-2025 00:11:00 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[01-Mar-2025 00:11:02 UTC] referer: http://lapacho-1.local/cart/, *
-[01-Mar-2025 00:11:02 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[01-Mar-2025 00:11:00 UTC] referer: https://www.talabarterialapacho.com/, *
+[01-Mar-2025 00:11:00 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[01-Mar-2025 00:11:02 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[01-Mar-2025 00:11:02 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [01-Mar-2025 00:11:02 UTC] Registering settings...
-[01-Mar-2025 00:11:03 UTC] referer: http://lapacho-1.local/cart/, *
-[01-Mar-2025 00:11:03 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
-[01-Mar-2025 00:12:23 UTC] referer: http://lapacho-1.local/cart/, http://lapacho-1.local
-[01-Mar-2025 00:12:23 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
-[01-Mar-2025 00:12:25 UTC] referer: http://lapacho-1.local/cart/, http://lapacho-1.local
-[01-Mar-2025 00:12:25 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
-[01-Mar-2025 00:12:26 UTC] referer: http://lapacho-1.local/cart/, http://lapacho-1.local
-[01-Mar-2025 00:12:26 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
-[01-Mar-2025 00:12:27 UTC] referer: http://lapacho-1.local/cart/, http://lapacho-1.local
-[01-Mar-2025 00:12:27 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[01-Mar-2025 00:11:03 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[01-Mar-2025 00:11:03 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
+[01-Mar-2025 00:12:23 UTC] referer: https://www.talabarterialapacho.com/cart/, https://www.talabarterialapacho.com
+[01-Mar-2025 00:12:23 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
+[01-Mar-2025 00:12:25 UTC] referer: https://www.talabarterialapacho.com/cart/, https://www.talabarterialapacho.com
+[01-Mar-2025 00:12:25 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
+[01-Mar-2025 00:12:26 UTC] referer: https://www.talabarterialapacho.com/cart/, https://www.talabarterialapacho.com
+[01-Mar-2025 00:12:26 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
+[01-Mar-2025 00:12:27 UTC] referer: https://www.talabarterialapacho.com/cart/, https://www.talabarterialapacho.com
+[01-Mar-2025 00:12:27 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [01-Mar-2025 00:12:28 UTC] Registering settings...
-[01-Mar-2025 00:12:29 UTC] referer: http://lapacho-1.local/cart/, http://lapacho-1.local
-[01-Mar-2025 00:12:29 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
-[01-Mar-2025 00:12:29 UTC] referer: http://lapacho-1.local/cart/, http://lapacho-1.local
-[01-Mar-2025 00:12:29 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
-[01-Mar-2025 00:12:30 UTC] referer: http://lapacho-1.local/cart/, http://lapacho-1.local
-[01-Mar-2025 00:12:30 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
-[01-Mar-2025 00:12:31 UTC] referer: http://lapacho-1.local/cart/, http://lapacho-1.local
-[01-Mar-2025 00:12:31 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
-[01-Mar-2025 00:12:32 UTC] referer: http://lapacho-1.local/cart/, http://lapacho-1.local
-[01-Mar-2025 00:12:32 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
-[01-Mar-2025 00:12:33 UTC] referer: http://lapacho-1.local/cart/, http://lapacho-1.local
-[01-Mar-2025 00:12:33 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
-[01-Mar-2025 00:12:33 UTC] referer: http://lapacho-1.local/cart/, http://lapacho-1.local
-[01-Mar-2025 00:12:33 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
-[01-Mar-2025 00:12:35 UTC] referer: http://lapacho-1.local/cart/, http://lapacho-1.local
-[01-Mar-2025 00:12:35 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
-[01-Mar-2025 00:12:35 UTC] referer: http://lapacho-1.local/cart/, http://lapacho-1.local
-[01-Mar-2025 00:12:35 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
-[01-Mar-2025 00:12:36 UTC] referer: http://lapacho-1.local/cart/, http://lapacho-1.local
-[01-Mar-2025 00:12:36 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
-[01-Mar-2025 00:12:40 UTC] referer: http://lapacho-1.local/, *
-[01-Mar-2025 00:12:40 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[01-Mar-2025 00:12:42 UTC] referer: http://lapacho-1.local/cart/, *
-[01-Mar-2025 00:12:42 UTC] referer: http://lapacho-1.local/cart/, http://lapacho-1.local
-[01-Mar-2025 00:12:42 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
-[01-Mar-2025 00:12:42 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
-[01-Mar-2025 00:12:43 UTC] referer: http://lapacho-1.local/cart/, *
-[01-Mar-2025 00:12:43 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[01-Mar-2025 00:12:29 UTC] referer: https://www.talabarterialapacho.com/cart/, https://www.talabarterialapacho.com
+[01-Mar-2025 00:12:29 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
+[01-Mar-2025 00:12:29 UTC] referer: https://www.talabarterialapacho.com/cart/, https://www.talabarterialapacho.com
+[01-Mar-2025 00:12:29 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
+[01-Mar-2025 00:12:30 UTC] referer: https://www.talabarterialapacho.com/cart/, https://www.talabarterialapacho.com
+[01-Mar-2025 00:12:30 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
+[01-Mar-2025 00:12:31 UTC] referer: https://www.talabarterialapacho.com/cart/, https://www.talabarterialapacho.com
+[01-Mar-2025 00:12:31 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
+[01-Mar-2025 00:12:32 UTC] referer: https://www.talabarterialapacho.com/cart/, https://www.talabarterialapacho.com
+[01-Mar-2025 00:12:32 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
+[01-Mar-2025 00:12:33 UTC] referer: https://www.talabarterialapacho.com/cart/, https://www.talabarterialapacho.com
+[01-Mar-2025 00:12:33 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
+[01-Mar-2025 00:12:33 UTC] referer: https://www.talabarterialapacho.com/cart/, https://www.talabarterialapacho.com
+[01-Mar-2025 00:12:33 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
+[01-Mar-2025 00:12:35 UTC] referer: https://www.talabarterialapacho.com/cart/, https://www.talabarterialapacho.com
+[01-Mar-2025 00:12:35 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
+[01-Mar-2025 00:12:35 UTC] referer: https://www.talabarterialapacho.com/cart/, https://www.talabarterialapacho.com
+[01-Mar-2025 00:12:35 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
+[01-Mar-2025 00:12:36 UTC] referer: https://www.talabarterialapacho.com/cart/, https://www.talabarterialapacho.com
+[01-Mar-2025 00:12:36 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
+[01-Mar-2025 00:12:40 UTC] referer: https://www.talabarterialapacho.com/, *
+[01-Mar-2025 00:12:40 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[01-Mar-2025 00:12:42 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[01-Mar-2025 00:12:42 UTC] referer: https://www.talabarterialapacho.com/cart/, https://www.talabarterialapacho.com
+[01-Mar-2025 00:12:42 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
+[01-Mar-2025 00:12:42 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
+[01-Mar-2025 00:12:43 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[01-Mar-2025 00:12:43 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [01-Mar-2025 00:12:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
 #0 C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-load.php(50): require_once()
@@ -4984,12 +4984,12 @@ Stack trace:
 #3 {main}
   thrown in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 119
 [01-Mar-2025 00:14:32 UTC] Registering settings...
-[01-Mar-2025 00:15:33 UTC] referer: http://lapacho-1.local/cart/, *
-[01-Mar-2025 00:15:33 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
-[01-Mar-2025 00:15:36 UTC] referer: http://lapacho-1.local/, *
-[01-Mar-2025 00:15:36 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[01-Mar-2025 00:15:36 UTC] referer: http://lapacho-1.local/, http://lapacho-1.local
-[01-Mar-2025 00:15:36 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
+[01-Mar-2025 00:15:33 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[01-Mar-2025 00:15:33 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
+[01-Mar-2025 00:15:36 UTC] referer: https://www.talabarterialapacho.com/, *
+[01-Mar-2025 00:15:36 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[01-Mar-2025 00:15:36 UTC] referer: https://www.talabarterialapacho.com/, https://www.talabarterialapacho.com
+[01-Mar-2025 00:15:36 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
 [01-Mar-2025 00:16:32 UTC] Registering settings...
 [01-Mar-2025 00:17:50 UTC] PHP Warning:  Constant WC_SESSION_HANDLER already defined in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 137
 [01-Mar-2025 00:17:50 UTC] Registering settings...
@@ -5083,17 +5083,17 @@ Stack trace:
 [01-Mar-2025 00:20:01 UTC] PHP Warning:  Constant WC_SESSION_HANDLER already defined in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 137
 [01-Mar-2025 00:20:01 UTC] PHP Warning:  Constant WC_SESSION_HANDLER already defined in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 137
 [01-Mar-2025 00:20:05 UTC] PHP Warning:  Constant WC_SESSION_HANDLER already defined in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 137
-[01-Mar-2025 00:20:05 UTC] referer: http://lapacho-1.local/cart/, *
-[01-Mar-2025 00:20:05 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[01-Mar-2025 00:20:05 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[01-Mar-2025 00:20:05 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [01-Mar-2025 00:20:10 UTC] PHP Warning:  Constant WC_SESSION_HANDLER already defined in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 137
-[01-Mar-2025 00:20:10 UTC] referer: http://lapacho-1.local/, http://lapacho-1.local
-[01-Mar-2025 00:20:10 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
+[01-Mar-2025 00:20:10 UTC] referer: https://www.talabarterialapacho.com/, https://www.talabarterialapacho.com
+[01-Mar-2025 00:20:10 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
 [01-Mar-2025 00:20:10 UTC] PHP Warning:  Constant WC_SESSION_HANDLER already defined in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 137
-[01-Mar-2025 00:20:10 UTC] referer: http://lapacho-1.local/, *
-[01-Mar-2025 00:20:10 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
+[01-Mar-2025 00:20:10 UTC] referer: https://www.talabarterialapacho.com/, *
+[01-Mar-2025 00:20:10 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
 [01-Mar-2025 00:20:14 UTC] PHP Warning:  Constant WC_SESSION_HANDLER already defined in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 137
-[01-Mar-2025 00:20:14 UTC] referer: http://lapacho-1.local/, *
-[01-Mar-2025 00:20:14 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
+[01-Mar-2025 00:20:14 UTC] referer: https://www.talabarterialapacho.com/, *
+[01-Mar-2025 00:20:14 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
 [01-Mar-2025 00:20:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
 #0 C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-load.php(50): require_once()
@@ -5130,18 +5130,18 @@ Stack trace:
 #3 {main}
   thrown in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 119
 [01-Mar-2025 00:21:15 UTC] PHP Warning:  Constant WC_SESSION_HANDLER already defined in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 137
-[01-Mar-2025 00:21:15 UTC] referer: http://lapacho-1.local/cart/, *
-[01-Mar-2025 00:21:15 UTC] CORS plugin ignoring local request: http://lapacho-1.local/cart/
+[01-Mar-2025 00:21:15 UTC] referer: https://www.talabarterialapacho.com/cart/, *
+[01-Mar-2025 00:21:15 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/cart/
 [01-Mar-2025 00:21:17 UTC] PHP Warning:  Constant WC_SESSION_HANDLER already defined in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 137
 [01-Mar-2025 00:21:21 UTC] PHP Warning:  Constant WC_SESSION_HANDLER already defined in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 137
 [01-Mar-2025 00:21:21 UTC] PHP Warning:  Constant WC_SESSION_HANDLER already defined in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 137
-[01-Mar-2025 00:21:21 UTC] referer: http://lapacho-1.local/, *
-[01-Mar-2025 00:21:21 UTC] referer: http://lapacho-1.local/, http://lapacho-1.local
-[01-Mar-2025 00:21:21 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[01-Mar-2025 00:21:21 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
+[01-Mar-2025 00:21:21 UTC] referer: https://www.talabarterialapacho.com/, *
+[01-Mar-2025 00:21:21 UTC] referer: https://www.talabarterialapacho.com/, https://www.talabarterialapacho.com
+[01-Mar-2025 00:21:21 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[01-Mar-2025 00:21:21 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
 [01-Mar-2025 00:21:24 UTC] PHP Warning:  Constant WC_SESSION_HANDLER already defined in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 137
-[01-Mar-2025 00:21:24 UTC] referer: http://lapacho-1.local/, *
-[01-Mar-2025 00:21:24 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
+[01-Mar-2025 00:21:24 UTC] referer: https://www.talabarterialapacho.com/, *
+[01-Mar-2025 00:21:24 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
 [01-Mar-2025 00:21:25 UTC] PHP Warning:  Constant WC_SESSION_HANDLER already defined in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 137
 [01-Mar-2025 00:21:34 UTC] PHP Warning:  Constant WC_SESSION_HANDLER already defined in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 137
 [01-Mar-2025 00:21:35 UTC] Registering settings...
@@ -5159,10 +5159,10 @@ Stack trace:
 #2 C:\Users\mampe\Local Sites\lapacho-1\app\public\index.php(17): require('C:\\Users\\mampe\\...')
 #3 {main}
   thrown in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 119
-[01-Mar-2025 00:31:36 UTC] referer: http://lapacho-1.local/wp-admin/admin.php?page=wc-settings&tab=advanced&section=keys, *
-[01-Mar-2025 00:31:36 UTC] CORS plugin ignoring local request: http://lapacho-1.local/wp-admin/admin.php?page=wc-settings&tab=advanced&section=keys
-[01-Mar-2025 00:31:39 UTC] referer: http://lapacho-1.local/wp-admin/admin.php?page=wc-settings&tab=advanced&section=keys, *
-[01-Mar-2025 00:31:39 UTC] CORS plugin ignoring local request: http://lapacho-1.local/wp-admin/admin.php?page=wc-settings&tab=advanced&section=keys
+[01-Mar-2025 00:31:36 UTC] referer: https://www.talabarterialapacho.com/wp-admin/admin.php?page=wc-settings&tab=advanced&section=keys, *
+[01-Mar-2025 00:31:36 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/wp-admin/admin.php?page=wc-settings&tab=advanced&section=keys
+[01-Mar-2025 00:31:39 UTC] referer: https://www.talabarterialapacho.com/wp-admin/admin.php?page=wc-settings&tab=advanced&section=keys, *
+[01-Mar-2025 00:31:39 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/wp-admin/admin.php?page=wc-settings&tab=advanced&section=keys
 [01-Mar-2025 00:31:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
 #0 C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-load.php(50): require_once()
@@ -5198,12 +5198,12 @@ Stack trace:
 [01-Mar-2025 00:32:44 UTC]  allowed cors domains are: *
 [01-Mar-2025 00:32:44 UTC] Test referrer for match with *
 [01-Mar-2025 00:32:44 UTC] Rejecting CORS from *
-[01-Mar-2025 00:32:54 UTC] referer: http://lapacho-1.local/, *
-[01-Mar-2025 00:32:54 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[01-Mar-2025 00:32:54 UTC] referer: http://lapacho-1.local/, http://lapacho-1.local
-[01-Mar-2025 00:32:54 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[01-Mar-2025 00:32:58 UTC] referer: http://lapacho-1.local/, *
-[01-Mar-2025 00:32:58 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
+[01-Mar-2025 00:32:54 UTC] referer: https://www.talabarterialapacho.com/, *
+[01-Mar-2025 00:32:54 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[01-Mar-2025 00:32:54 UTC] referer: https://www.talabarterialapacho.com/, https://www.talabarterialapacho.com
+[01-Mar-2025 00:32:54 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[01-Mar-2025 00:32:58 UTC] referer: https://www.talabarterialapacho.com/, *
+[01-Mar-2025 00:32:58 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
 [01-Mar-2025 00:33:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
 #0 C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-load.php(50): require_once()
@@ -5287,12 +5287,12 @@ Stack trace:
 [01-Mar-2025 00:39:12 UTC]  allowed cors domains are: *
 [01-Mar-2025 00:39:12 UTC] Test referrer for match with *
 [01-Mar-2025 00:39:12 UTC] Rejecting CORS from *
-[01-Mar-2025 00:39:15 UTC] referer: http://lapacho-1.local/, *
-[01-Mar-2025 00:39:15 UTC] referer: http://lapacho-1.local/, http://lapacho-1.local
-[01-Mar-2025 00:39:15 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[01-Mar-2025 00:39:15 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[01-Mar-2025 00:39:17 UTC] referer: http://lapacho-1.local/, *
-[01-Mar-2025 00:39:17 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
+[01-Mar-2025 00:39:15 UTC] referer: https://www.talabarterialapacho.com/, *
+[01-Mar-2025 00:39:15 UTC] referer: https://www.talabarterialapacho.com/, https://www.talabarterialapacho.com
+[01-Mar-2025 00:39:15 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[01-Mar-2025 00:39:15 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[01-Mar-2025 00:39:17 UTC] referer: https://www.talabarterialapacho.com/, *
+[01-Mar-2025 00:39:17 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
 [01-Mar-2025 00:40:36 UTC] referer: *, *
 [01-Mar-2025 00:40:36 UTC] Test if CORS allowed for: *
 [01-Mar-2025 00:40:36 UTC]  allowed cors domains are: *
@@ -5322,12 +5322,12 @@ Stack trace:
 [01-Mar-2025 00:42:09 UTC]  allowed cors domains are: *
 [01-Mar-2025 00:42:09 UTC] Test referrer for match with *
 [01-Mar-2025 00:42:09 UTC] Rejecting CORS from *
-[01-Mar-2025 00:42:13 UTC] referer: http://lapacho-1.local/, *
-[01-Mar-2025 00:42:13 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[01-Mar-2025 00:42:13 UTC] referer: http://lapacho-1.local/, http://lapacho-1.local
-[01-Mar-2025 00:42:13 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[01-Mar-2025 00:42:15 UTC] referer: http://lapacho-1.local/, *
-[01-Mar-2025 00:42:15 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
+[01-Mar-2025 00:42:13 UTC] referer: https://www.talabarterialapacho.com/, *
+[01-Mar-2025 00:42:13 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[01-Mar-2025 00:42:13 UTC] referer: https://www.talabarterialapacho.com/, https://www.talabarterialapacho.com
+[01-Mar-2025 00:42:13 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[01-Mar-2025 00:42:15 UTC] referer: https://www.talabarterialapacho.com/, *
+[01-Mar-2025 00:42:15 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
 [01-Mar-2025 00:42:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
 #0 C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-load.php(50): require_once()
@@ -5574,12 +5574,12 @@ Stack trace:
 [01-Mar-2025 00:47:14 UTC]  allowed cors domains are: *
 [01-Mar-2025 00:47:14 UTC] Test referrer for match with *
 [01-Mar-2025 00:47:14 UTC] Allowing CORS from http://127.0.0.1:5500/
-[01-Mar-2025 00:47:15 UTC] referer: http://lapacho-1.local/, *
-[01-Mar-2025 00:47:15 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[01-Mar-2025 00:47:16 UTC] referer: http://lapacho-1.local/, http://lapacho-1.local
-[01-Mar-2025 00:47:16 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
-[01-Mar-2025 00:47:18 UTC] referer: http://lapacho-1.local/, *
-[01-Mar-2025 00:47:18 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
+[01-Mar-2025 00:47:15 UTC] referer: https://www.talabarterialapacho.com/, *
+[01-Mar-2025 00:47:15 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[01-Mar-2025 00:47:16 UTC] referer: https://www.talabarterialapacho.com/, https://www.talabarterialapacho.com
+[01-Mar-2025 00:47:16 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
+[01-Mar-2025 00:47:18 UTC] referer: https://www.talabarterialapacho.com/, *
+[01-Mar-2025 00:47:18 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
 [01-Mar-2025 00:47:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
 #0 C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-load.php(50): require_once()
@@ -5662,8 +5662,8 @@ Stack trace:
 [01-Mar-2025 00:52:37 UTC]  allowed cors domains are: *
 [01-Mar-2025 00:52:37 UTC] Test referrer for match with *
 [01-Mar-2025 00:52:37 UTC] Rejecting CORS from *
-[01-Mar-2025 00:52:46 UTC] referer: http://lapacho-1.local/, *
-[01-Mar-2025 00:52:46 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
+[01-Mar-2025 00:52:46 UTC] referer: https://www.talabarterialapacho.com/, *
+[01-Mar-2025 00:52:46 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
 [01-Mar-2025 00:52:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
 #0 C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-load.php(50): require_once()
@@ -5678,8 +5678,8 @@ Stack trace:
 #2 C:\Users\mampe\Local Sites\lapacho-1\app\public\index.php(17): require('C:\\Users\\mampe\\...')
 #3 {main}
   thrown in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php on line 119
-[01-Mar-2025 00:52:49 UTC] referer: http://lapacho-1.local/, *
-[01-Mar-2025 00:52:49 UTC] CORS plugin ignoring local request: http://lapacho-1.local/
+[01-Mar-2025 00:52:49 UTC] referer: https://www.talabarterialapacho.com/, *
+[01-Mar-2025 00:52:49 UTC] CORS plugin ignoring local request: https://www.talabarterialapacho.com/
 [01-Mar-2025 00:52:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-config.php:119
 Stack trace:
 #0 C:\Users\mampe\Local Sites\lapacho-1\app\public\wp-load.php(50): require_once()

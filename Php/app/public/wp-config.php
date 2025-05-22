@@ -123,8 +123,8 @@ if (defined('ALLOW_CORS') && ALLOW_CORS) {
 /* That's all, stop editing! Happy publishing. */
 define('WC_SESSION_HANDLER', 'WC_Session_Handler');
 
-define('WP_HOME', 'http://lapacho-1.local');
-define('WP_SITEURL', 'http://lapacho-1.local');
+define('WP_HOME', 'https://www.talabarterialapacho.com');
+define('WP_SITEURL', 'https://www.talabarterialapacho.com');
 
 
 

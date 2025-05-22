@@ -11,14 +11,14 @@
   window.__LAPACHO_CART_LOADED__ = true;
 
   // TODO tu código aquí, sin cambios
-  const BASE_URL = "http://lapacho-1.local";
+  const BASE_URL = "https://www.talabarterialapacho.com";
 
   // resto del script ...
 })();
 
 
 /* ---------- configuración ---------- */
-const BASE_URL = "http://lapacho-1.local";   // ← tu dominio WordPress/Woo
+const BASE_URL = "https://www.talabarterialapacho.com";   // ← tu dominio WordPress/Woo
 
 /* =====================================================================
    1.  JWT helpers (los que ya usás en otras páginas)
@@ -48,7 +48,7 @@ const BASE_URL = "http://lapacho-1.local";   // ← tu dominio WordPress/Woo
    
    async function fetchNewToken () {
      console.log('🔄 Pidiendo token nuevo…');
-     const res = await fetch('http://lapacho-1.local/wp-content/get-jwt-token.php');
+     const res = await fetch('https://www.talabarterialapacho.com/wp-content/get-jwt-token.php');
      if (!res.ok) throw new Error('No se pudo obtener token');
      return (await res.text()).trim();
    }
