@@ -247,6 +247,31 @@ add_action('wp_ajax_obtener_nonce', 'obtener_nonce_para_woocommerce');
 add_action('wp_ajax_nopriv_obtener_nonce', 'obtener_nonce_para_woocommerce');
 
 // ... (resto de tu código) ...
+
+function agregar_cabeceras_cors() {
+    $origin = isset($_SERVER['HTTP_ORIGIN']) ? $_SERVER['HTTP_ORIGIN'] : '';
+    $allowed_origins = [
+        'https://www.talabarterialapacho.com',
+        'http://www.talabarterialapacho.com',
+        'https://admin.talabarterialapacho.com',
+    ];
+    if (in_array($origin, $allowed_origins)) {
+        header("Access-Control-Allow-Origin: $origin");
+        header("Access-Control-Allow-Methods: GET, POST, OPTIONS");
+        header("Access-Control-Allow-Headers: Authorization, Content-Type");
+        header("Access-Control-Allow-Credentials: true");
+    }
+}
+add_action('send_headers', 'agregar_cabeceras_cors');
+
+function manejar_preflight() {
+    if ($_SERVER['REQUEST_METHOD'] == 'OPTIONS') {
+        status_header(200);
+        exit();
+    }
+}
+add_action('init', 'manejar_preflight');
+
 ?>
 
 
