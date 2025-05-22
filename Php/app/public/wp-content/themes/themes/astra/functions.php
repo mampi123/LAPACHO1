@@ -208,10 +208,12 @@ require_once ASTRA_THEME_DIR . 'inc/core/markup/class-astra-markup.php';
 require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-filters.php';
 require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-hooks.php';
 require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-functions.php';
+<?php
+// ... (todo tu código original arriba) ...
 
 function habilitar_cors() {
-    // Cambia esto a la URL de tu frontend (sin la barra final).
-    $frontend_url = 'http://127.0.0.1:5500'; 
+    // Cambia esto a la URL de tu frontend real (sin barra final)
+    $frontend_url = 'https://www.talabarterialapacho.com';
 
     header("Access-Control-Allow-Origin: $frontend_url");
     header("Access-Control-Allow-Methods: GET, POST, OPTIONS");
@@ -225,10 +227,9 @@ function habilitar_cors() {
 }
 add_action('init', 'habilitar_cors');
 
-
 function manejar_solicitudes_options() {
     if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
-        header("Access-Control-Allow-Origin: http://127.0.0.1:5500");
+        header("Access-Control-Allow-Origin: https://www.talabarterialapacho.com");
         header("Access-Control-Allow-Methods: GET, POST, OPTIONS");
         header("Access-Control-Allow-Headers: Authorization, Content-Type");
         header("Access-Control-Allow-Credentials: true");
@@ -236,7 +237,6 @@ function manejar_solicitudes_options() {
     }
 }
 add_action('init', 'manejar_solicitudes_options');
-
 
 function obtener_nonce_para_woocommerce() {
     wp_send_json_success(array(
@@ -246,6 +246,8 @@ function obtener_nonce_para_woocommerce() {
 add_action('wp_ajax_obtener_nonce', 'obtener_nonce_para_woocommerce');
 add_action('wp_ajax_nopriv_obtener_nonce', 'obtener_nonce_para_woocommerce');
 
+// ... (resto de tu código) ...
+?>
 
 
 
