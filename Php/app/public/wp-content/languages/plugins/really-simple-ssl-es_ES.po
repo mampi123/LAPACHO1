@@ -3975,8 +3975,8 @@ msgid "Your domain meets the requirements for Let's Encrypt."
 msgstr "Su dominio cumple los requisitos de Let's Encrypt."
 
 #: lets-encrypt/class-letsencrypt-handler.php:208
-msgid "It is not possible to install Let's Encrypt on a localhost environment."
-msgstr "No es posible instalar Let's Encrypt en un entorno localhost."
+msgid "It is not possible to install Let's Encrypt on a https://www.talabarterialapacho.com environment."
+msgstr "No es posible instalar Let's Encrypt en un entorno https://www.talabarterialapacho.com."
 
 #: lets-encrypt/class-letsencrypt-handler.php:218
 msgid "It is not possible to install Let's Encrypt on a subfolder configuration."

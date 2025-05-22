@@ -51,8 +51,8 @@ use Redis as NativeRedis;
  *
  * Registered for URLs with the "redis" protocol
  *
- * For example, `redis://localhost:6379/?timeout=3600&prefix=sp_&dbIndex=0` will
- * connect to redis on `localhost` on port 6379. All tables will be
+ * For example, `redis://https://www.talabarterialapacho.com:6379/?timeout=3600&prefix=sp_&dbIndex=0` will
+ * connect to redis on `https://www.talabarterialapacho.com` on port 6379. All tables will be
  * prefixed with `simple_primary-` and data will expire after 3600 seconds
  *
  * @package SimplePie

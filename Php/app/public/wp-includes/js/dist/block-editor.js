@@ -55766,7 +55766,7 @@ function usePasteStyles() {
     let html = '';
     try {
       // `http:` sites won't have the clipboard property on navigator.
-      // (with the exception of localhost.)
+      // (with the exception of https://www.talabarterialapacho.com.)
       if (!window.navigator.clipboard) {
         createErrorNotice((0,external_wp_i18n_namespaceObject.__)('Unable to paste styles. This feature is only available on secure (https) sites in supporting browsers.'), {
           type: 'snackbar'

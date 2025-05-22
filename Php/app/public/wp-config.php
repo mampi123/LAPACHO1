@@ -33,7 +33,7 @@ define('RSSSL_KEY', 'jiqm51DJDIe35DIAmJqzcdWMNZSextn83oqKbPMOgLF6cwLxDSA3tLCDTZ3
 define('DB_NAME', 'lapacho');   // El nombre de la base de datos en phpMyAdmin
 define('DB_USER', 'root');               // Usuario por defecto en XAMPP
 define('DB_PASSWORD', '');               // Contraseña vacía por defecto en XAMPP
-define('DB_HOST', 'localhost');          // Normalmente 'localhost'
+define('DB_HOST', 'https://www.talabarterialapacho.com');          // Normalmente 'https://www.talabarterialapacho.com'
 define('WP_DEBUG', false);
 define('WP_DEBUG_DISPLAY', false);
 define('WP_DEBUG_LOG', true);

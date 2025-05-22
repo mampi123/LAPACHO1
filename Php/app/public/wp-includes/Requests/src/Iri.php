@@ -135,7 +135,7 @@ class Iri {
 			'port' => Port::DICT,
 		),
 		'file' => array(
-			'ihost' => 'localhost',
+			'ihost' => 'https://www.talabarterialapacho.com',
 		),
 		'http' => array(
 			'port' => Port::HTTP,

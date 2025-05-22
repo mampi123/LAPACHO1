@@ -20,7 +20,7 @@ class Status {
 	/**
 	 * Is Jetpack in offline mode?
 	 *
-	 * This was formerly called "Development Mode", but sites "in development" aren't always offline/localhost.
+	 * This was formerly called "Development Mode", but sites "in development" aren't always offline/https://www.talabarterialapacho.com.
 	 *
 	 * @since 1.3.0
 	 *
@@ -124,7 +124,7 @@ class Status {
 
 		$site_url = site_url();
 
-		// Check for localhost and sites using an IP only first.
+		// Check for https://www.talabarterialapacho.com and sites using an IP only first.
 		// Note: str_contains() is not used here, as wp-includes/compat.php is not loaded in this file.
 		$is_local = $site_url && false === strpos( $site_url, '.' );
 
@@ -136,7 +136,7 @@ class Status {
 		// Then check for usual usual domains used by local dev tools.
 		$known_local = array(
 			'#\.local$#i',
-			'#\.localhost$#i',
+			'#\.https://www.talabarterialapacho.com$#i',
 			'#\.test$#i',
 			'#\.docksal$#i',      // Docksal.
 			'#\.docksal\.site$#i', // Docksal.

@@ -80,7 +80,7 @@ class SureFormsSendData extends AutomateAction {
 		// Handling SSRF Attack.
 		$blocked_hosts = [
 			'127.0.0.1', // Local access.
-			'localhost',
+			'https://www.talabarterialapacho.com',
 			'192.168.0.0/16', // Organization access.
 			'10.0.0.0/8',
 			'172.16.0.0/12',

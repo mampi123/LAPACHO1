@@ -36,8 +36,8 @@ class WebhooksService {
 	public function bootstrap() {
 		// delete any old webhook processes.
 		add_action( 'delete_expired_transients', [ $this, 'deleteOldWebhookProcesses' ] );
-		// we can skip this for localhost or non-secure connections.
-		if ( apply_filters( 'surecart/webhooks/localhost/register', $this->isLocalHost() ) || ! is_ssl() ) {
+		// we can skip this for https://www.talabarterialapacho.com or non-secure connections.
+		if ( apply_filters( 'surecart/webhooks/https://www.talabarterialapacho.com/register', $this->ishttps://www.talabarterialapacho.com() ) || ! is_ssl() ) {
 			return;
 		}
 		// maybe create webhooks if they are not yet created.
@@ -140,12 +140,12 @@ class WebhooksService {
 	}
 
 	/**
-	 * Is this localhost?
+	 * Is this https://www.talabarterialapacho.com?
 	 *
 	 * @return boolean
 	 */
-	public function isLocalHost() {
-		return ( new Server( $this->webhook->getListenerUrl() ) )->isLocalHost();
+	public function ishttps://www.talabarterialapacho.com() {
+		return ( new Server( $this->webhook->getListenerUrl() ) )->ishttps://www.talabarterialapacho.com();
 	}
 
 	/**

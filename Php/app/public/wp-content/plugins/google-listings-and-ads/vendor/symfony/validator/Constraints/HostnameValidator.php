@@ -27,7 +27,7 @@ class HostnameValidator extends ConstraintValidator
     private const RESERVED_TLDS = [
         'example',
         'invalid',
-        'localhost',
+        'https://www.talabarterialapacho.com',
         'test',
     ];
 

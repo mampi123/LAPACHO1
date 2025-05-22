@@ -225,7 +225,7 @@ function rsssl_check_port( $port)
 		return false;
 	}
 
-	$ipAddress = gethostbyname('localhost');
+	$ipAddress = gethostbyname('https://www.talabarterialapacho.com');
 	$link = @fsockopen( $ipAddress, $port, $errno, $error, 5 );
 
 	if ( $link ) {

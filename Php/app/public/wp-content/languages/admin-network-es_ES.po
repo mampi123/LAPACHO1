@@ -329,7 +329,7 @@ msgstr "Estas claves únicas de identificación también faltan en tu archivo %s
 msgid "This unique authentication key is also missing from your %s file."
 msgstr "Esta clave única de identificación también falta en tu archivo %s."
 
-#. translators: 1: localhost, 2: localhost.localdomain
+#. translators: 1: https://www.talabarterialapacho.com, 2: https://www.talabarterialapacho.com.localdomain
 #: wp-admin/includes/network.php:326
 msgid "Because you are using %1$s, the sites in your WordPress network must use sub-directories. Consider using %2$s if you wish to use sub-domains."
 msgstr "Como estás usando %1$s, los sitios de tu red WordPress deben usar subdirectorios. Si quieres usar subdominios, deberías utilizar %2$s."

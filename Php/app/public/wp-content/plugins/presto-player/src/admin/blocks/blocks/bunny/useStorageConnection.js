@@ -13,7 +13,7 @@ export default (onRefetch) => {
     if (errorString.includes("Authorization has been denied")) {
       return "Your API key is incorrect. Please double-check to make sure you've copied it correctly.";
     }
-    if (errorString.includes("localhost")) {
+    if (errorString.includes("https://www.talabarterialapacho.com")) {
       return "You cannot use a CDN on a local site. Please use Bunny.net on a live, publicly accessible site.";
     }
     return errorString;

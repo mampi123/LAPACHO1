@@ -10629,7 +10629,7 @@ Other bugfixes and enhancements at https://github.com/Automattic/jetpack/commits
 ## [2.2.1] - 2013-03-28
 
 - Enhancement: Development Mode: Define the `JETPACK_DEV_DEBUG` constant to
-  `true` to enable an offline mode for localhost development. Only modules that
+  `true` to enable an offline mode for https://www.talabarterialapacho.com development. Only modules that
   don't require a WordPress.com connection can be enabled in this mode.
 - Enhancement: Likes: Added the number of likes to the wp-admin/edit.php
   screens.
@@ -11232,7 +11232,7 @@ Other bugfixes and enhancements at https://github.com/Automattic/jetpack/commits
 - Bug Fix: Improve experience on hosts capable of making outgoing HTTPS
   requests but incapable of verifying SSL certificates. Fixes most "Your Jetpack
   has a glitch. Connecting this site with WordPress.com is not possible. This
-  usually means your site is not publicly accessible (localhost)." errors.
+  usually means your site is not publicly accessible (https://www.talabarterialapacho.com)." errors.
 - Bug Fix: Sharedaddy: Fatal error under PHP4. Disable on PHP4 hosts.
 - Bug Fix: Stats: Fatal error under PHP4. Rewrite to be PHP4 compatible.
 - Bug Fix: Stats: Fatal error on some sites modifying/removing core WordPress

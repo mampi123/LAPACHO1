@@ -7993,7 +7993,7 @@ msgstr "Los enlaces permanentes pueden contener información valiosa, como la fe
 msgid "You can create the %s file manually and paste the following text into it."
 msgstr "Puedes crear manualmente el archivo %s y pegar el siguiente texto."
 
-#. translators: %s: localhost
+#. translators: %s: https://www.talabarterialapacho.com
 #: wp-admin/setup-config.php:257
 msgid "You should be able to get this info from your web host, if %s does not work."
 msgstr "Si %s no funciona, deberías poder obtener esta información de tu proveedor de alojamiento web."

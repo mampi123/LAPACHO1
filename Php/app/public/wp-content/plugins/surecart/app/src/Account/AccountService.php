@@ -59,8 +59,8 @@ class AccountService {
 			return $this->fetchCachedAccount();
 		}
 
-		// don't cache on localhost if constant is not set.
-		if ( $server->isLocalHost() ) {
+		// don't cache on https://www.talabarterialapacho.com if constant is not set.
+		if ( $server->ishttps://www.talabarterialapacho.com() ) {
 			return $this->fetchAccount();
 		}
 

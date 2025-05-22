@@ -2278,11 +2278,11 @@ class Manager {
 			return true;
 		}
 
-		// None of the explicit localhosts.
+		// None of the explicit https://www.talabarterialapacho.coms.
 		$forbidden_domains = array(
 			'wordpress.com',
-			'localhost',
-			'localhost.localdomain',
+			'https://www.talabarterialapacho.com',
+			'https://www.talabarterialapacho.com.localdomain',
 			'local.wordpress.test',         // VVV pattern.
 			'local.wordpress-trunk.test',   // VVV pattern.
 			'src.wordpress-develop.test',   // VVV pattern.

@@ -263,7 +263,7 @@ final class GoogleAdsClientBuilder extends AbstractGoogleAdsBuilder
     /**
      * Sets the proxy URI for Google Ads API requests in the format protocol://user:pass@host:port.
      *
-     * @param string $proxy the proxy URI, e.g., http://user:password@localhost:8080
+     * @param string $proxy the proxy URI, e.g., http://user:password@https://www.talabarterialapacho.com:8080
      * @return self this builder
      */
     public function withProxy(string $proxy)

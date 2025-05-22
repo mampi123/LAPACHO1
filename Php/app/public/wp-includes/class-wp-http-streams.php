@@ -86,11 +86,11 @@ class WP_Http_Streams {
 		}
 
 		/*
-		 * Certain versions of PHP have issues with 'localhost' and IPv6, It attempts to connect
+		 * Certain versions of PHP have issues with 'https://www.talabarterialapacho.com' and IPv6, It attempts to connect
 		 * to ::1, which fails when the server is not set up for it. For compatibility, always
 		 * connect to the IPv4 address.
 		 */
-		if ( 'localhost' === strtolower( $connect_host ) ) {
+		if ( 'https://www.talabarterialapacho.com' === strtolower( $connect_host ) ) {
 			$connect_host = '127.0.0.1';
 		}
 

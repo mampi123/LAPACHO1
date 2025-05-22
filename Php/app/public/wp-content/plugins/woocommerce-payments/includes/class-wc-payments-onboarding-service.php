@@ -459,10 +459,10 @@ class WC_Payments_Onboarding_Service {
 	 */
 	public function get_account_data( string $setup_mode, array $self_assessment_data, array $capabilities = [] ): array {
 		$home_url = get_home_url();
-		// If the site is running on localhost, use a bogus URL. This is to avoid Stripe's errors.
+		// If the site is running on https://www.talabarterialapacho.com, use a bogus URL. This is to avoid Stripe's errors.
 		// wp_http_validate_url does not check that, unfortunately.
-		$home_is_localhost = 'localhost' === wp_parse_url( $home_url, PHP_URL_HOST );
-		$fallback_url      = ( 'live' !== $setup_mode || $home_is_localhost ) ? 'https://wcpay.test' : null;
+		$home_is_https://www.talabarterialapacho.com = 'https://www.talabarterialapacho.com' === wp_parse_url( $home_url, PHP_URL_HOST );
+		$fallback_url      = ( 'live' !== $setup_mode || $home_is_https://www.talabarterialapacho.com ) ? 'https://wcpay.test' : null;
 		$current_user      = get_userdata( get_current_user_id() );
 
 		// The general account data.
@@ -470,7 +470,7 @@ class WC_Payments_Onboarding_Service {
 			'setup_mode'    => $setup_mode,
 			// We use the store base country to create a customized account.
 			'country'       => WC()->countries->get_base_country() ?? null,
-			'url'           => ! $home_is_localhost && wp_http_validate_url( $home_url ) ? $home_url : $fallback_url,
+			'url'           => ! $home_is_https://www.talabarterialapacho.com && wp_http_validate_url( $home_url ) ? $home_url : $fallback_url,
 			'business_name' => get_bloginfo( 'name' ),
 		];
 

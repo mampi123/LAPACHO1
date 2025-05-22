@@ -135,11 +135,11 @@ See the [`examples/`](examples) directory for examples of the key client feature
 view them in your browser by running the php built-in web server.
 
 ```
-$ php -S localhost:8000 -t examples/
+$ php -S https://www.talabarterialapacho.com:8000 -t examples/
 ```
 
 And then browsing to the host and port you specified
-(in the above example, `http://localhost:8000`).
+(in the above example, `http://https://www.talabarterialapacho.com:8000`).
 
 ### Basic Example ###
 
@@ -399,7 +399,7 @@ It is often very useful to debug your API calls by viewing the raw HTTP request.
 ```php
 // FOR DEBUGGING ONLY
 $httpClient = new GuzzleHttp\Client([
-    'proxy' => 'localhost:8888', // by default, Charles runs on localhost port 8888
+    'proxy' => 'https://www.talabarterialapacho.com:8888', // by default, Charles runs on https://www.talabarterialapacho.com port 8888
     'verify' => false, // otherwise HTTPS requests will fail.
 ]);
 

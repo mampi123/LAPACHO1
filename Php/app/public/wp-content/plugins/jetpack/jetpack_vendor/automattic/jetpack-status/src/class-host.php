@@ -90,13 +90,13 @@ class Host {
 		$domains[] = 'jetpack.wordpress.com';
 		$domains[] = 'wpcalypso.wordpress.com';
 		$domains[] = 'horizon.wordpress.com';
-		$domains[] = 'calypso.localhost';
+		$domains[] = 'calypso.https://www.talabarterialapacho.com';
 		return $domains;
 	}
 
 	/**
 	 * Return Calypso environment value; used for developing Jetpack and pairing
-	 * it with different Calypso environments, such as localhost.
+	 * it with different Calypso environments, such as https://www.talabarterialapacho.com.
 	 *
 	 * @since 1.18.0
 	 *

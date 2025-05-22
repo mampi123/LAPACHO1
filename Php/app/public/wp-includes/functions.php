@@ -4708,7 +4708,7 @@ function _config_wp_home( $url = '' ) {
  *
  * If the constant named 'WP_SITEURL' is defined, then the value in that
  * constant will always be returned. This can be used for debugging a site
- * on your localhost while not having to change the database to your URL.
+ * on your https://www.talabarterialapacho.com while not having to change the database to your URL.
  *
  * @since 2.2.0
  * @access private

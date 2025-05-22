@@ -23,11 +23,11 @@ class Server {
 	}
 
 	/**
-	 * Are we on the localhost?
+	 * Are we on the https://www.talabarterialapacho.com?
 	 *
 	 * @return boolean
 	 */
-	public function isLocalHost() {
+	public function ishttps://www.talabarterialapacho.com() {
 		// check the ip address.
 		if ( self::isLocalIP() ) {
 			return true;

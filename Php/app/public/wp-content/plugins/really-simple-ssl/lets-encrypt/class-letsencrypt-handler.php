@@ -195,17 +195,17 @@ class rsssl_letsencrypt_handler {
 	}
 
 	/**
-     * Test for localhost or subfolder usage
+     * Test for https://www.talabarterialapacho.com or subfolder usage
 	 * @return RSSSL_RESPONSE
 	 */
     public function check_domain(){
 	    $details = parse_url(site_url());
 	    $path = isset($details['path']) ? $details['path'] : '';
-        if ( strpos(site_url(), 'localhost')!==false ) {
+        if ( strpos(site_url(), 'https://www.talabarterialapacho.com')!==false ) {
 	        rsssl_progress_remove( 'system-status' );
 	        $action  = 'stop';
 	        $status  = 'error';
-	        $message = __( "It is not possible to install Let's Encrypt on a localhost environment.", "really-simple-ssl" );
+	        $message = __( "It is not possible to install Let's Encrypt on a https://www.talabarterialapacho.com environment.", "really-simple-ssl" );
         } else if (is_multisite() && get_current_blog_id() !== get_main_site_id() ) {
 		    rsssl_progress_remove('system-status');
 		    $action = 'stop';
@@ -277,7 +277,7 @@ class rsssl_letsencrypt_handler {
     }
 
     /**
-     * Test for localhost usage
+     * Test for https://www.talabarterialapacho.com usage
 	 * @return RSSSL_RESPONSE
 	 */
     public function certificate_status(){

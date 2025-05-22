@@ -10,7 +10,7 @@ class InternalClient extends Client
 {
     public function __construct()
     {
-        parent::__construct('localhost', 0, 'sdk');
+        parent::__construct('https://www.talabarterialapacho.com', 0, 'sdk');
     }
 
     /**

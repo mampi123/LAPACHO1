@@ -6800,8 +6800,8 @@ msgid "The jetpack_offline_mode filter is set to true."
 msgstr "El filtro jetpack_offline_mode está establecido en «true»."
 
 #: class.jetpack.php:1510
-msgid "The site URL is a known local development environment URL (e.g. http://localhost)."
-msgstr "La URL del sitio es una URL conocida del entorno de desarrollo local (p. ej. http://localhost)."
+msgid "The site URL is a known local development environment URL (e.g. http://https://www.talabarterialapacho.com)."
+msgstr "La URL del sitio es una URL conocida del entorno de desarrollo local (p. ej. http://https://www.talabarterialapacho.com)."
 
 #: class.jetpack.php:1508
 msgid "The WP_LOCAL_DEV constant is defined in wp-config.php or elsewhere."

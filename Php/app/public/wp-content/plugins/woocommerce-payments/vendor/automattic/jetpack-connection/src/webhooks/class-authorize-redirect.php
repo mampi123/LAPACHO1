@@ -51,7 +51,7 @@ class Authorize_Redirect {
 				$domains[] = 'jetpack.wordpress.com';
 				$domains[] = 'wordpress.com';
 				// Calypso envs.
-				$domains[] = 'calypso.localhost';
+				$domains[] = 'calypso.https://www.talabarterialapacho.com';
 				$domains[] = 'wpcalypso.wordpress.com';
 				$domains[] = 'horizon.wordpress.com';
 				return array_unique( $domains );
@@ -194,7 +194,7 @@ class Authorize_Redirect {
 
 	/**
 	 * Return Calypso environment value; used for developing Jetpack and pairing
-	 * it with different Calypso enrionments, such as localhost.
+	 * it with different Calypso enrionments, such as https://www.talabarterialapacho.com.
 	 * Copied from Jetpack class.
 	 *
 	 * @deprecated 2.7.6

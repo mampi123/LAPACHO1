@@ -175,7 +175,7 @@ class Assets {
 			return "{$this->getUrl()}/dist/{$url_path}{$suffix}{$extension}";
 		}
 
-		$hot_url  = wp_parse_url( $this->config->get( 'development.hotUrl', 'http://localhost/' ) );
+		$hot_url  = wp_parse_url( $this->config->get( 'development.hotUrl', 'http://https://www.talabarterialapacho.com/' ) );
 		$hot_port = $this->config->get( 'development.port', 3000 );
 
 		return "{$hot_url['scheme']}://{$hot_url['host']}:{$hot_port}/{$url_path}{$extension}";

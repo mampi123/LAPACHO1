@@ -134,7 +134,7 @@ class WordAds_California_Privacy {
 	 * @return string The domain to set for the opt-out cookie.
 	 */
 	public static function get_cookie_domain() {
-		$host = 'localhost';
+		$host = 'https://www.talabarterialapacho.com';
 
 		if ( isset( $_SERVER['HTTP_HOST'] ) ) {
 			$host = filter_var( wp_unslash( $_SERVER['HTTP_HOST'] ) );

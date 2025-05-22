@@ -26,7 +26,7 @@ const SslLabs = () => {
         setSslData,
         sslScanStatus,
         setSslScanStatus,
-        isLocalHost,
+        ishttps://www.talabarterialapacho.com,
         fetchSslData,
         runSslTest,
         intervalId,
@@ -49,7 +49,7 @@ const SslLabs = () => {
     }
 
     useEffect(()=> {
-        if ( isLocalHost() ) {
+        if ( ishttps://www.talabarterialapacho.com() ) {
             return;
         }
 
@@ -275,10 +275,10 @@ const SslLabs = () => {
     let errorMessage='';
     let sslStatusColor = 'black';
 
-    if ( isLocalHost() ) {
+    if ( ishttps://www.talabarterialapacho.com() ) {
         hasErrors = true;
         sslStatusColor = 'red';
-        errorMessage = __("Not available on localhost","really-simple-ssl");
+        errorMessage = __("Not available on https://www.talabarterialapacho.com","really-simple-ssl");
     } else if (sslData && (sslData.errors || sslData.status === 'ERROR') ) {
         hasErrors = true;
         sslStatusColor = 'red';

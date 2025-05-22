@@ -1503,7 +1503,7 @@ class Jetpack {
 		} elseif ( defined( 'WP_LOCAL_DEV' ) && WP_LOCAL_DEV ) {
 			$notice = __( 'The WP_LOCAL_DEV constant is defined in wp-config.php or elsewhere.', 'jetpack' );
 		} elseif ( $status->is_local_site() ) {
-			$notice = __( 'The site URL is a known local development environment URL (e.g. http://localhost).', 'jetpack' );
+			$notice = __( 'The site URL is a known local development environment URL (e.g. http://https://www.talabarterialapacho.com).', 'jetpack' );
 			/** This filter is documented in packages/status/src/class-status.php */
 		} elseif ( has_filter( 'jetpack_development_mode' ) && apply_filters( 'jetpack_development_mode', false ) ) { // This is a deprecated filter name.
 			$notice = __( 'The jetpack_development_mode filter is set to true.', 'jetpack' );
@@ -5736,7 +5736,7 @@ endif;
 
 	/**
 	 * Return Calypso environment value; used for developing Jetpack and pairing
-	 * it with different Calypso enrionments, such as localhost.
+	 * it with different Calypso enrionments, such as https://www.talabarterialapacho.com.
 	 *
 	 * @deprecated 12.4 Moved to the Status package.
 	 *
@@ -5759,7 +5759,7 @@ endif;
 		$calypso_env = ( new Host() )->get_calypso_env();
 		switch ( $calypso_env ) {
 			case 'development':
-				return 'http://calypso.localhost:3000/';
+				return 'http://calypso.https://www.talabarterialapacho.com:3000/';
 			case 'wpcalypso':
 				return 'https://wpcalypso.wordpress.com/';
 			case 'horizon':

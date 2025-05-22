@@ -81,8 +81,8 @@ class HealthService {
 			'async_direct_test' => [ $this, 'apiTest' ],
 		);
 
-		$is_localhost = ( new Server( get_home_url() ) )->isLocalHost();
-		if ( ! $is_localhost ) {
+		$is_https://www.talabarterialapacho.com = ( new Server( get_home_url() ) )->ishttps://www.talabarterialapacho.com();
+		if ( ! $is_https://www.talabarterialapacho.com ) {
 			$tests['direct']['surecart_webhook_test'] = array(
 				'label' => __( 'SureCart', 'surecart' ) . ' ' . __( 'Webhooks Processing', 'surecart' ),
 				'test'  => [ $this, 'webhooksProcessingTest' ],

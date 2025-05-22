@@ -195,7 +195,7 @@ class AI_Helper {
 				break;
 			case 'invalid_token':
 				$title   = __( 'Invalid Website URL', 'sureforms' );
-				$message = __( 'AI Form Builder does not work on localhost. Please try on a live website.', 'sureforms' );
+				$message = __( 'AI Form Builder does not work on https://www.talabarterialapacho.com. Please try on a live website.', 'sureforms' );
 				break;
 			case 'domain_verification_failed':
 				$title   = __( 'Domain Verification Failed', 'sureforms' );

@@ -1,7 +1,7 @@
 import {create} from 'zustand';
 import * as rsssl_api from "../../utils/api";
 const useSslLabs = create(( set, get ) => ({
-    debug:false, //set to true for localhost testing, with wordpress.org as domain
+    debug:false, //set to true for https://www.talabarterialapacho.com testing, with wordpress.org as domain
     sslScanStatus: false,
     sslData: false,
     endpointData: [],
@@ -16,9 +16,9 @@ const useSslLabs = create(( set, get ) => ({
     setSslData: (sslData) => set({ sslData }),
     setEndpointData: (endpointData) => set({ endpointData }),
 
-    isLocalHost: () => {
+    ishttps://www.talabarterialapacho.com: () => {
         let debug = get().debug;
-        return debug ? false: window.location.host.indexOf('localhost')!==-1;
+        return debug ? false: window.location.host.indexOf('https://www.talabarterialapacho.com')!==-1;
     } ,
     host: () => {
         let debug = get().debug;

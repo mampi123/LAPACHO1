@@ -770,7 +770,7 @@ You can read our Terms of Service and other policies [here](https://woocommerce.
 * Fix - Fixed Afterpay logo size on settings page
 * Fix - Fixed billing address error for subscription without some billing details
 * Fix - Fixed optional billing field validation
-* Fix - Fix Fatal Error showing when connect to Jetpack on localhost
+* Fix - Fix Fatal Error showing when connect to Jetpack on https://www.talabarterialapacho.com
 * Fix - Fix JS error when clicking GPay button on blocks checkout with subscription (w/sign up fee) in cart.
 * Fix - Fix payment icons on connect page (Klarna, Afterpay)
 * Fix - Hide account tools finish setup button for accounts completed the KYC and change it's link to Stripe KYC instead of the Stripe Express.

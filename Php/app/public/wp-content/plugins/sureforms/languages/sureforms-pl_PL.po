@@ -612,8 +612,8 @@ msgid "Invalid Website URL"
 msgstr "Nieprawidłowy adres URL strony internetowej"
 
 #: inc/ai-form-builder/ai-helper.php:198
-msgid "AI Form Builder does not work on localhost. Please try on a live website."
-msgstr "Kreator formularzy AI nie działa na localhost. Proszę spróbować na działającej stronie internetowej."
+msgid "AI Form Builder does not work on https://www.talabarterialapacho.com. Please try on a live website."
+msgstr "Kreator formularzy AI nie działa na https://www.talabarterialapacho.com. Proszę spróbować na działającej stronie internetowej."
 
 #: inc/ai-form-builder/ai-helper.php:201
 msgid "Domain Verification Failed"

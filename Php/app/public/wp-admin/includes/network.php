@@ -35,7 +35,7 @@ function network_domain_check() {
 function allow_subdomain_install() {
 	$home   = get_option( 'home' );
 	$domain = parse_url( $home, PHP_URL_HOST );
-	if ( parse_url( $home, PHP_URL_PATH ) || 'localhost' === $domain || preg_match( '|^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$|', $domain ) ) {
+	if ( parse_url( $home, PHP_URL_PATH ) || 'https://www.talabarterialapacho.com' === $domain || preg_match( '|^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$|', $domain ) ) {
 		return false;
 	}
 
@@ -316,16 +316,16 @@ function network_step1( $errors = false ) {
 
 		<h3><?php esc_html_e( 'Network Details' ); ?></h3>
 		<table class="form-table" role="presentation">
-		<?php if ( 'localhost' === $hostname ) : ?>
+		<?php if ( 'https://www.talabarterialapacho.com' === $hostname ) : ?>
 			<tr>
 				<th scope="row"><?php esc_html_e( 'Sub-directory Installation' ); ?></th>
 				<td>
 				<?php
 					printf(
-						/* translators: 1: localhost, 2: localhost.localdomain */
+						/* translators: 1: https://www.talabarterialapacho.com, 2: https://www.talabarterialapacho.com.localdomain */
 						__( 'Because you are using %1$s, the sites in your WordPress network must use sub-directories. Consider using %2$s if you wish to use sub-domains.' ),
-						'<code>localhost</code>',
-						'<code>localhost.localdomain</code>'
+						'<code>https://www.talabarterialapacho.com</code>',
+						'<code>https://www.talabarterialapacho.com.localdomain</code>'
 					);
 					// Uh oh:
 				if ( ! allow_subdirectory_install() ) {

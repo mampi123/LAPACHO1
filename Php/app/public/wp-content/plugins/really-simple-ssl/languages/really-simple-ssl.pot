@@ -804,7 +804,7 @@ msgid "Test not found."
 msgstr ""
 
 #: lets-encrypt/class-letsencrypt-handler.php:208
-msgid "It is not possible to install Let's Encrypt on a localhost environment."
+msgid "It is not possible to install Let's Encrypt on a https://www.talabarterialapacho.com environment."
 msgstr ""
 
 #: lets-encrypt/class-letsencrypt-handler.php:213
@@ -6877,7 +6877,7 @@ msgstr ""
 
 #: settings/build/43.3396f539d8baa3a0bd20.js:1
 #: settings/src/Dashboard/SslLabs/SslLabs.js:281
-msgid "Not available on localhost"
+msgid "Not available on https://www.talabarterialapacho.com"
 msgstr ""
 
 #: settings/build/43.3396f539d8baa3a0bd20.js:1

@@ -96,7 +96,7 @@ class WC_Geolocation {
 
 	/**
 	 * Get user IP Address using an external service.
-	 * This can be used as a fallback for users on localhost where
+	 * This can be used as a fallback for users on https://www.talabarterialapacho.com where
 	 * get_ip_address() will be a local IP and non-geolocatable.
 	 *
 	 * @return string
