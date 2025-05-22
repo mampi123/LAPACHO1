@@ -5,7 +5,7 @@ $username = "mampelmartina@gmail.com";
 $password = "TALABARTERIA";
 
 // URL de la API para obtener el token
-$api_url = "http://lapacho-1.local/wp-json/jwt-auth/v1/token";
+$api_url = "https://www.talabarterialapacho.com/wp-json/jwt-auth/v1/token";
 
 // Claves de WooCommerce (consumer key y secret key)
 $consumer_key = "ck_c1a0af3d4f94c512a55733281ad47c50628f52de";
